@@ -14,7 +14,7 @@ export default function EarthlyDecorativeFrame() {
     return (
         <div>
 
-                   MYTHOS _ TATT00
+                   TASOU _ SYSTEM
               
         </div>)
 }
