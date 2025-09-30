@@ -1,0 +1,14 @@
+import { writeGithub } from '@base/000.mythos'
+
+
+import FS from 'fs-extra';
+
+export async function GET() {
+
+  var bit = await writeGithub( {fs:FS} )
+  return Response.json( bit )
+}
+
+
+
+

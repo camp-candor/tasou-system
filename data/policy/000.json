@@ -1,0 +1,193 @@
+{
+    "world": "The Spiritus Continuum",
+    "codexVersion": "1.0",
+    "lastUpdated": "YYYY-MM-DD",
+    "leadArchitects": [
+      "Your Name"
+    ],
+    "introduction": "This protocol guides the strategic design and application of constraints within the Spiritus Continuum heterocosm. Inspired by Doležel's framework, it posits that well-defined limitations – authenticated spiritual laws (modalities), energetic precedents, psychic vulnerabilities, and metaphysical barriers – are not obstacles to creativity but essential engines that drive narrative conflict, shape character development, enhance thematic depth, and focus imaginative invention.",
+    "sections": {
+      "identifyingCoreConstraints": {
+        "title": "I. Identifying Core World Constraints",
+        "purpose": "Catalog the fundamental, authenticated limitations governing the heterocosm. These rules are derived from the inherent nature of consciousness and energy as presented.",
+        "constraintTypes": {
+          "alethic": {
+            "label": "Alethic (Laws of Possibility/Necessity)",
+            "constraints": [
+              {
+                "id": "ALE-01",
+                "authenticatedRule": "The Energy Body (Aura, Chakras) is a real, perceptible, and interactive aspect of a being. Its state dictates physical, emotional, and psychic capabilities.",
+                "source": "Codex of Energetic Principles",
+                "narrativeFunctionServed": "Grounds the world's metaphysics, makes spiritual states tangible and consequential, allows for non-physical forms of conflict and perception (e.g., seeing auras, feeling energetic states)."
+              },
+              {
+                "id": "ALE-02",
+                "authenticatedRule": "Energetic Inversion through prolonged fear and trauma is possible. This process reverses the flow of the energy body, locking consciousness into the lower three chakras and creating a 'Beast Nature.'",
+                "source": "Principles of Consciousness Degradation",
+                "narrativeFunctionServed": "Creates a core threat and antagonist state of being. Provides a source of horror and tragedy, as characters can 'fall' and become monstrous versions of themselves."
+              },
+              {
+                "id": "ALE-03",
+                "authenticatedRule": "Energetic exchange is a necessity for all beings. A balanced being draws life force (chi/prana) from the cosmos; an Inverted being *must* parasitically draw it from others to survive.",
+                "source": "Codex of Energetic Principles",
+                "narrativeFunctionServed": "Establishes a fundamental motivation (need for energy), creating the basis for both symbiotic (healing) and predatory ('psychic vampirism') relationships. Drives conflict over resources that are metaphysical."
+              },
+              {
+                "id": "ALE-04",
+                "authenticatedRule": "Access to higher spiritual dimensions is physically possible but is contingent on the state of one's energy body, specifically the openness of the Heart Chakra and higher centers.",
+                "source": "Metaphysical Cartography",
+                "narrativeFunctionServed": "Makes ascension a tangible, achievable goal. Expands the world with higher realms (and beings) that characters can aspire to reach. Justifies why not everyone can perceive spiritual truth."
+              }
+            ]
+          },
+          "deontic": {
+            "label": "Deontic (Laws of Obligation/Permission)",
+            "constraints": [
+              {
+                "id": "DEO-01",
+                "authenticatedRule": "There is an implicit spiritual Obligation to evolve, heal personal trauma, and integrate one's full consciousness ('bring the darkness to light').",
+                "source": "The Soul's Compact",
+                "narrativeFunctionServed": "Provides the central heroic motivation and narrative drive for protagonists. Defines the 'righteous path' and creates inherent stakes for stagnation or regression."
+              },
+              {
+                "id": "DEO-02",
+                "authenticatedRule": "Choosing to sever one's connection to the Heart Chakra and operate from a fear-based, service-to-self consciousness is a fundamental spiritual Prohibition.",
+                "source": "The Soul's Compact",
+                "narrativeFunctionServed": "Creates the 'Fall from Grace' story arc. Violation of this prohibition results in the punishment of energetic inversion and becoming a parasitic being."
+              }
+            ]
+          },
+          "axiological": {
+            "label": "Axiological (Values/Taboos)",
+            "constraints": [
+              {
+                "id": "AXI-01",
+                "authenticatedValueTaboo": "Love, compassion, empathy, and unity are the supreme Values and the expressions of a healthy, integrated spirit. Fear, selfishness, and exploitation are supreme Disvalues (Taboos).",
+                "source": "Core Energetic States",
+                "narrativeFunctionServed": "Establishes a clear moral compass for the world. Defines the philosophies of heroes (service to others) versus villains (service to self). 'Good' and 'Evil' are tangible energetic states."
+              }
+            ]
+          },
+          "epistemic": {
+            "label": "Epistemic (Knowledge Limits)",
+            "constraints": [
+              {
+                "id": "EPI-01",
+                "authenticatedLimit": "True spiritual reality (e.g., higher dimensions, cosmic memory) is fundamentally Unknown and inaccessible to a consciousness inverted by fear and trauma.",
+                "source": "Doctrine of Perceptual Ceilings",
+                "narrativeFunctionServed": "Creates the central mystery driving character arcs. The quest for self-knowledge is a literal unlocking of perception. Allows for dramatic irony, where the audience understands a spiritual truth that a traumatized character cannot."
+              },
+              {
+                "id": "EPI-02",
+                "authenticatedLimit": "Inverted beings are limited to perceiving lower astral realms and believe these dark, chaotic planes represent the totality of existence.",
+                "source": "Doctrine of Perceptual Ceilings",
+                "narrativeFunctionServed": "Justifies antagonist motivations as rational *from their limited perspective*. They are not just 'evil'; they are operating on a completely different and incomplete set of information about reality."
+              }
+            ]
+          },
+          "metaphysicalPrecedent": {
+            "label": "Metaphysical Precedent",
+            "constraints": [
+              {
+                "id": "META-01",
+                "authenticatedPastEvent": "A past event or cycle (e.g., 'The Fall,' 'The Shattering of Unity') introduced fear and trauma into consciousness, making energetic inversion a possibility for all subsequent beings.",
+                "source": "Cosmological History",
+                "narrativeFunctionServed": "Provides a mythic backstory for the world's central conflict. Justifies the current struggle between progressive (ascending) and regressive (descending) forces."
+              }
+            ]
+          },
+          "metaphysicalHazard": {
+            "label": "Metaphysical Hazard",
+            "constraints": [
+              {
+                "id": "HAZ-01",
+                "authenticatedHazard": "The Lower Astral Realm is a tangible, chaotic, and dangerous plane of existence that beings can become trapped in, consciously or unconsciously.",
+                "source": "Metaphysical Cartography",
+                "narrativeFunctionServed": "Functions as a persistent environmental threat ('hell'). It is a source of antagonistic entities and a place where characters can be psychically attacked or spiritually lost."
+              }
+            ]
+          }
+        }
+      },
+      "constraintDrivingConflict": {
+        "title": "II. Constraint Driving Conflict & Plot",
+        "purpose": "Brainstorm specific narrative conflicts and plot hooks that arise *directly* from the authenticated constraints.",
+        "examples": [
+          {
+            "constraintId": "ALE-02: Energetic Inversion is Possible",
+            "plotHooks": [
+              "A character's loved one is slowly succumbing to the Beast Nature after a severe trauma. The protagonist must find a way to heal them before the inversion becomes permanent.",
+              "A powerful organization (e.g., 'The Davos Cult') is discovered to be intentionally creating trauma on a mass scale to trigger inversion and harvest the resultant parasitic energy.",
+              "A character who is partially inverted must constantly battle their own predatory impulses while trying to heal, making them their own antagonist."
+            ]
+          },
+          {
+            "constraintId": "DEO-02: Severing the Heart is Forbidden",
+            "plotHooks": [
+              "A character is tempted with immense power, wealth, and influence, but the price is to consciously perform an act so cruel it will sever their connection to empathy and compassion forever.",
+              "A redemption arc for a character who has already broken this prohibition and now seeks to reverse the irreversible, a quest deemed impossible by all."
+            ]
+          },
+          {
+            "constraintId": "EPI-01: True Reality is Unknown to the Fearful",
+            "plotHooks": [
+              "An investigative narrative where a character begins to see 'glitches' in their reality, uncovering clues that their perception is being limited by their own unhealed trauma.",
+              "Two characters, one balanced and one inverted, experience the same event but interpret it in completely opposite ways due to their different perceptual ceilings, leading to intractable conflict."
+            ]
+          }
+        ]
+      },
+      "constraintDefiningCharacter": {
+        "title": "III. Constraint Defining Character & Enabling Ingenuity",
+        "purpose": "Explore how constraints shape character properties, motivations, and force creative problem-solving within the narrative.",
+        "examples": [
+          {
+            "constraint": "ALE-03: Inverted beings have a parasitic energy need.",
+            "characterPropertyShaped": "Creates archetypes like the 'Energy Vampire' – charismatic, manipulative figures who drain the life force of those around them. They possess skills in emotional and psychic manipulation.",
+            "characterMotivationDriven": "Their primary motivation is not just power or greed, but a literal, constant hunger for the energy of others, making them desperate and relentless.",
+            "creativeSolutionForced": "Protagonists cannot defeat these beings with physical force. They must learn spiritual and energetic self-defense: shielding their aura, grounding their energy, or learning to 'cut off' the parasitic connection."
+          },
+          {
+            "constraint": "DEO-01: Obligation to heal and evolve.",
+            "characterPropertyShaped": "Creates the 'Wounded Healer' archetype – characters whose own past trauma gives them the unique empathy and knowledge (authenticated skills) to guide others.",
+            "characterMotivationDriven": "Drives characters to face their deepest fears, not for external reward, but for spiritual liberation and to fulfill their soul's purpose.",
+            "creativeSolutionForced": "The final confrontation isn't a battle, but an act of radical forgiveness or self-acceptance. The character must heal an internal wound to overcome the external threat, demonstrating that spiritual power comes from integration, not aggression."
+          }
+        ]
+      },
+      "constraintEnhancingBelievability": {
+        "title": "IV. Constraint Enhancing Believability & Immersion",
+        "purpose": "Ensure that authenticated constraints are applied consistently to ground the world and maintain audience trust.",
+        "examples": [
+          {
+            "constraintArea": "Energetic Consequences",
+            "consistencyCheck": "Are characters who operate from a place of fear consistently shown to be psychically limited, unhealthy, or prone to attracting negative entities? Or do they sometimes use 'dark powers' without any personal cost?",
+            "immersionImpact": "Consistent costs make the choice between fear and love a meaningful one with tangible stakes. Inconsistent consequences make the moral system feel arbitrary.",
+            "actionItem": "Review all character actions. Ensure that acts of fear/hate have a degrading energetic effect and acts of love/compassion have an uplifting one, even in small ways."
+          },
+          {
+            "constraintArea": "The Nature of Creativity",
+            "consistencyCheck": "Are the world's most innovative and beautiful creations (art, music, technology) consistently linked to characters with open hearts and a connection to spirit? Are inverted societies shown to be sterile, imitative, or purely functional?",
+            "immersionImpact": "This consistency reinforces the core theme that true creativity is a spiritual act. Allowing an Inverted character to be a true artistic genius would break the world's fundamental rules.",
+            "actionItem": "Audit the sources of creativity and innovation in the world. Ensure they align with the authenticated energetic principles."
+          }
+        ]
+      },
+      "constraintFocusingCreativity": {
+        "title": "V. Constraint Focusing Creativity & Defining Identity",
+        "purpose": "Reflect on how the chosen constraints channel imagination and contribute to the world's unique identity.",
+        "examples": [
+          {
+            "constraintCluster": "Energy Body + Inversion Possibility + Parasitic Need",
+            "creativeFocusGenerated": "Focuses stories on internal, psychological, and spiritual horror rather than just external threats. Conflict becomes about spiritual integrity, psychic self-defense, and the battle for one's own soul.",
+            "uniqueWorldIdentityElement": "Defines the world's core dynamic as 'Energetic Polarity.' It is not a fight between good and evil as abstract concepts, but a tangible struggle between two different ways of being and surviving: a self-sustaining, creative life force versus a parasitic, imitative death force."
+          },
+          {
+            "constraintCluster": "Free Will Choice + Perceptual Ceilings + Heart as Portal",
+            "creativeFocusGenerated": "Creates narratives of awakening and discernment. Plots are driven by a character's struggle to understand the true nature of their reality and to distinguish authentic spiritual guidance from sophisticated deception.",
+            "uniqueWorldIdentityElement": "Establishes the world's primary theme as 'The Responsibility of Perception.' A character's reality is a direct reflection of their inner spiritual state. To change the world, one must first heal oneself to be able to see it clearly."
+          }
+        ]
+      }
+    }
+  }

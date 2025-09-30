@@ -1,0 +1,10 @@
+Inside the 05.github.unit directory 
+
+create a new methods for readGithub 
+follow the methodology for the contents of found within 05.github 
+update .action, .buzzer, .reducer files with new method ids
+
+set up the readGithub function to return the contents 
+from the following markdown file 
+at the github repo
+https://github.com/elliotbradly/mythos.tattoo/blob/main/src/data/post/cihli.md

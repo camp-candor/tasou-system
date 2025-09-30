@@ -1,0 +1,31 @@
+Inside the 01.signal.unit directory
+
+create a new methods for listSignal 
+follow the methodology for the contents of found within 03.datum but use the context of signal
+update .action, .buzzer, .reducer files with new method ids
+
+create a new method for readSignal 
+follow the methodology for the contents of found within 03.datum but use the context of signal
+update .action, .buzzer, .reducer files with new method ids
+
+create a new method for writeSignal 
+follow the methodology for the contents of found within 03.datum but use the context of signal
+update .action, .buzzer, .reducer files with new method ids
+
+create a new method for removeSignal 
+follow the methodology for the contents of found within 03.datum but use the context of signal
+update .action, .buzzer, .reducer files with new method ids
+
+create a new method for deleteSignal 
+follow the methodology for the contents of found within 03.datum but use the context of signal
+update .action, .buzzer, .reducer files with new method ids
+
+create a new method for createSignal 
+follow the methodology for the contents of found within 03.datum but use the context of signal
+update .action, .buzzer, .reducer files with new method ids
+
+update 000.mythos.tsx in the base directory with a new listSignal function
+
+create a src/app/api/signal directory
+in the src/app/api/signal create a list directory 
+in src/app/api/signal create a route where its contents are similar to datum but the context is signal  

@@ -1,0 +1,411 @@
+{"idx":"aftermath","src":"Aftermath! - FGU4000 Boxed Set.txt","val":12834}
+{"idx":"aftermath","src":"Aftermath! - FGU4000 Boxed Set.txt","val":12836}
+{"idx":"aftermath","src":"Aftermath! - FGU4000 Boxed Set.txt","val":12843}
+{"idx":"aftermath","src":"Aftermath! - FGU4000 Boxed Set.txt","val":12845}
+{"idx":"aftermath","src":"Aftermath! - FGU4000 Boxed Set.txt","val":12848}
+{"idx":"aftermath","src":"Aftermath! - FGU4000 Boxed Set.txt","val":12866}
+{"idx":"aftermath","src":"Aftermath! - FGU4000 Boxed Set.txt","val":12888}
+{"idx":"aftermath","src":"Aftermath! - FGU4000 Boxed Set.txt","val":13295}
+{"idx":"aftermath","src":"Aftermath! - FGU4014 Magic!.txt","val":3654}
+{"idx":"artsy","src":"p1f4cnbmr1fs21bem1jkehoq197sc.txt","val":61}
+{"idx":"artsy","src":"p1f4cnbmr1fs21bem1jkehoq197sc.txt","val":339}
+{"idx":"artsy","src":"Sign in Stranger.txt","val":559}
+{"idx":"battletech","src":"12 Hunters of the Deep.txt","val":2371}
+{"idx":"beatiary","src":"Adventures Dark and Deep Bestiary.txt","val":7056}
+{"idx":"beatiary","src":"Castles & Crusades - Classic Monsters.txt","val":1360}
+{"idx":"beatiary","src":"Conspiracy X - CryptoZoology.txt","val":7377}
+{"idx":"beatiary","src":"Conspiracy X - CryptoZoology.txt","val":7806}
+{"idx":"beatiary","src":"D20 Modern - Menace Manual.txt","val":1173}
+{"idx":"beatiary","src":"Gamma World - DeEvolution, Mutant Manual II.txt","val":2865}
+{"idx":"beatiary","src":"Shadowrun - Créatures Du Sixieme Monde.txt","val":6646}
+{"idx":"beatiary","src":"Shadowrun - Créatures Du Sixieme Monde.txt","val":11015}
+{"idx":"beatiary","src":"Shadowrun - Créatures Du Sixieme Monde.txt","val":11021}
+{"idx":"beatiary","src":"Shadowrun - Créatures Du Sixieme Monde.txt","val":11037}
+{"idx":"beatiary","src":"Tunnels & Trolls - Monstrum Codex.txt","val":1634}
+{"idx":"btrc","src":"EABA v2.0 - GREP v1.0 - Augmented Edition.txt","val":7038}
+{"idx":"castle-zag","src":"Castle Zagyg - Yggsburgh - Town Halls.txt","val":891}
+{"idx":"castle-zag","src":"Crusader #12 (TLG 1112 ).txt","val":456}
+{"idx":"comedy","src":"Giant-Guardian-Generation.txt","val":4975}
+{"idx":"comedy","src":"Toon - Deluxe Edition.txt","val":865}
+{"idx":"comedy","src":"Toon - Deluxe Edition.txt","val":9488}
+{"idx":"comedy","src":"Toon - Son of Toon.txt","val":2314}
+{"idx":"comedy","src":"Toon - Tooniversal Tour Guide.txt","val":596}
+{"idx":"comedy","src":"Toon - Tooniversal Tour Guide.txt","val":1556}
+{"idx":"comedy","src":"Toon - Tooniversal Tour Guide.txt","val":4941}
+{"idx":"comedy","src":"Toon - Tooniversal Tour Guide.txt","val":4946}
+{"idx":"comedy","src":"toonzy_sm.txt","val":268}
+{"idx":"comedy","src":"TriStat-dX-Dreaming-cities.txt","val":11442}
+{"idx":"crawling-under-a-broken-moon","src":"CUBM 18.txt","val":340}
+{"idx":"d20","src":"d20 - Modern - Menace Manual.txt","val":1173}
+{"idx":"d20","src":"D20 - Star Wars - The Completely Unofficial Star Wars Encyclopedia.txt","val":62617}
+{"idx":"d20","src":"DC Comics - d20 - Modern - Mutants & Masterminds 3e - DC Adventures - Heroes And Villains Vol 1.txt","val":20724}
+{"idx":"d20","src":"Green Ronin - d20 - Modern - Mutants & Masterminds 2e - Freedom City.txt","val":15186}
+{"idx":"d20","src":"Green Ronin - d20 - Modern - Mutants & Masterminds 2e - Golden Age.txt","val":6620}
+{"idx":"d20","src":"Green Ronin - d20 - Modern - Sidewinder Recoiled.txt","val":144}
+{"idx":"d20","src":"Green Ronin - d20 - Modern - Sidewinder Recoiled.txt","val":17882}
+{"idx":"d20","src":"Green Ronin - d20 - Modern - Sidewinder Recoiled.txt","val":17906}
+{"idx":"d20","src":"Green Ronin - d20 - Modern - Sidewinder Recoiled.txt","val":17908}
+{"idx":"d20","src":"Green Ronin - d20 - Modern - Sidewinder Recoiled.txt","val":17910}
+{"idx":"d20","src":"Green Ronin - d20 - Modern - Sidewinder Recoiled.txt","val":17912}
+{"idx":"d20","src":"Green Ronin - d20 - Modern - Sidewinder Recoiled.txt","val":17925}
+{"idx":"d20","src":"Ronin Arts - d20 - Modern - Modern 13 - Arcane Operative Items.txt","val":68}
+{"idx":"daredevils","src":"Imagine No. 28.txt","val":2128}
+{"idx":"daredevils","src":"Imagine No. 28.txt","val":2130}
+{"idx":"daredevils","src":"Imagine No. 28.txt","val":2538}
+{"idx":"daredevils","src":"Imagine No. 28.txt","val":2545}
+{"idx":"dcc","src":"2016_Gongfarmers_Almanac_consolidated_edition_Vols_1-8 (1).txt","val":12060}
+{"idx":"dcc","src":"2016_Gongfarmers_Almanac_consolidated_edition_Vols_1-8 (1).txt","val":12061}
+{"idx":"dcc","src":"2016_Gongfarmers_Almanac_consolidated_edition_Vols_1-8.txt","val":12060}
+{"idx":"dcc","src":"2016_Gongfarmers_Almanac_consolidated_edition_Vols_1-8.txt","val":12061}
+{"idx":"dcc","src":"CUBM 18.txt","val":340}
+{"idx":"dcc","src":"DCC 85 - Making of a Ghost Ring.txt","val":148}
+{"idx":"dcc","src":"GMGC14 - Gen Con 2014 - Program Guide.txt","val":2973}
+{"idx":"dcc","src":"GMGC14 - Gen Con 2014 - Program Guide.txt","val":3111}
+{"idx":"dcc","src":"In the Prison of the Squid Sorcerer.txt","val":664}
+{"idx":"deadlands","src":"American Costume 1840-1920 (1).txt","val":6561}
+{"idx":"deadlands","src":"American Costume 1840-1920.txt","val":6561}
+{"idx":"deadlands","src":"Deadlands - Loc - River o Blood.txt","val":6053}
+{"idx":"deadlands","src":"Deadlands - Loc - South o the Border.txt","val":1937}
+{"idx":"dr-who","src":"Medicine Man, The.txt","val":264}
+{"idx":"earthdawn","src":"Cathay, The Five Kingdoms - Gamemasters Guide.txt","val":5281}
+{"idx":"earthdawn","src":"Gamemasters Guide (1).txt","val":10488}
+{"idx":"earthdawn","src":"Gamemasters Guide (1).txt","val":10489}
+{"idx":"earthdawn","src":"Gamemasters Guide (2).txt","val":8773}
+{"idx":"earthdawn","src":"Gamemasters Guide.txt","val":10488}
+{"idx":"earthdawn","src":"Gamemasters Guide.txt","val":10489}
+{"idx":"esoterror","src":"Worldbreaker.txt","val":3374}
+{"idx":"exhaulted","src":"Players Guide.txt","val":9539}
+{"idx":"fae","src":"Kithbook Pooka.txt","val":2985}
+{"idx":"fae","src":"Kithbook Pooka.txt","val":3004}
+{"idx":"fae","src":"Kithbook Pooka.txt","val":3014}
+{"idx":"fae","src":"Kithbook Pooka.txt","val":3035}
+{"idx":"fae","src":"Kithbook Pooka.txt","val":4086}
+{"idx":"fate","src":"Amethyst Destiny - FATE Edition.txt","val":6738}
+{"idx":"fate","src":"DFRPG - Core 02 - Our World.txt","val":6463}
+{"idx":"fate","src":"The Day After Ragnarok - FATE Edition.txt","val":5066}
+{"idx":"feng-shui","src":"Secrets of the Chi War.txt","val":2344}
+{"idx":"feng-shui","src":"Seed of the New Flesh AG4001.txt","val":2639}
+{"idx":"gamma-world","src":"Gamma World - DeEvolution, Mutant Manual II.txt","val":2865}
+{"idx":"gamma-world","src":"Gamma World 2e - Adventure GW5 - Rapture of the Deep (fan made).txt","val":1574}
+{"idx":"gamma-world","src":"Gamma World 2e - Adventure GW5 - Rapture of the Deep (fan made).txt","val":2401}
+{"idx":"gamma-world","src":"Gamma World 2e - Adventure GW5 - Rapture of the Deep (fan made).txt","val":2410}
+{"idx":"gurps-classic","src":"All Star Jam 2004.txt","val":2836}
+{"idx":"gurps-classic","src":"Atomic Horror.txt","val":7747}
+{"idx":"gurps-classic","src":"Atomic Horror.txt","val":7752}
+{"idx":"gurps-classic","src":"Black Ops.txt","val":241}
+{"idx":"gurps-classic","src":"Cliffhangers.txt","val":1229}
+{"idx":"gurps-classic","src":"Magic Items 3.txt","val":776}
+{"idx":"gurps-classic","src":"Monsters.txt","val":1328}
+{"idx":"gurps-classic","src":"Monsters.txt","val":2232}
+{"idx":"gurps-classic","src":"Monsters.txt","val":2246}
+{"idx":"gurps-classic","src":"Monsters.txt","val":2250}
+{"idx":"gurps-classic","src":"Monsters.txt","val":2263}
+{"idx":"gurps-classic","src":"Monsters.txt","val":6372}
+{"idx":"gurps-classic","src":"Warriors.txt","val":6986}
+{"idx":"harp","src":"HARP Monsters - A Field Guide.txt","val":874}
+{"idx":"harp","src":"HARP Monsters - A Field Guide.txt","val":952}
+{"idx":"harp","src":"HARP Monsters - A Field Guide.txt","val":1613}
+{"idx":"harp","src":"HARP Monsters - A Field Guide.txt","val":8288}
+{"idx":"hero","src":"Champions Presents 1.txt","val":2337}
+{"idx":"hero","src":"Champions Presents 2.txt","val":125}
+{"idx":"hero","src":"Champions Presents 2.txt","val":6209}
+{"idx":"hero","src":"Champions Presents 2.txt","val":6221}
+{"idx":"hero","src":"Champions Presents 2.txt","val":6699}
+{"idx":"hero","src":"Champions Presents 2.txt","val":6702}
+{"idx":"hero","src":"Champions Presents 2.txt","val":6706}
+{"idx":"hero","src":"Champions Presents 2.txt","val":6714}
+{"idx":"hero","src":"Champions Presents 2.txt","val":6717}
+{"idx":"hero","src":"Champions Presents 2.txt","val":6757}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7764}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7793}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7796}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7804}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7811}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7835}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7839}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7844}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7845}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7846}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7850}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7853}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7854}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7858}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7861}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7864}
+{"idx":"hero","src":"Champions Presents 2.txt","val":7865}
+{"idx":"hero","src":"Champions Presents 2.txt","val":8286}
+{"idx":"hero","src":"Champions Universe, News of the World.txt","val":2216}
+{"idx":"hero","src":"Champions Universe, News of the World.txt","val":9733}
+{"idx":"hero","src":"Dark Champions - Animated Series.txt","val":954}
+{"idx":"hero","src":"DOJHERO 1006 - Hero System 6th - Bestiary.txt","val":26721}
+{"idx":"hero","src":"DOJHERO 1006 - Hero System 6th - Bestiary.txt","val":26735}
+{"idx":"hero","src":"DOJHERO 1008 - Hero System 6th - Skills-p1f4d39m0i19f0dvekq1tfme.txt","val":6394}
+{"idx":"hero","src":"DOJHERO 1102 - Hero System 6th - Champions Universe.txt","val":9619}
+{"idx":"hero","src":"DOJHERO 1102 - Hero System 6th - Champions Universe.txt","val":9621}
+{"idx":"hero","src":"DOJHERO 1102 - Hero System 6th - Champions Universe.txt","val":13108}
+{"idx":"hero","src":"Fantasy Hero Companion.txt","val":2046}
+{"idx":"hero","src":"Fantasy Hero.txt","val":11694}
+{"idx":"hero","src":"Golden Age Champions.txt","val":6133}
+{"idx":"hero","src":"Golden Age Champions.txt","val":6147}
+{"idx":"hero","src":"Golden Age Champions.txt","val":6159}
+{"idx":"hero","src":"Hero Bestiary.txt","val":92}
+{"idx":"hero","src":"Hero Bestiary.txt","val":1138}
+{"idx":"hero","src":"Heroic Adventures v1.txt","val":3877}
+{"idx":"hero","src":"Hudson City.txt","val":2523}
+{"idx":"hero","src":"Mystic Masters.txt","val":4542}
+{"idx":"hero","src":"Pulp Hero - Thrilling Places.txt","val":2950}
+{"idx":"hero","src":"Pulp Hero - Thrilling Places.txt","val":3650}
+{"idx":"hero","src":"Pulp Hero - Thrilling Places.txt","val":3713}
+{"idx":"hero","src":"Pulp Hero - Thrilling Places.txt","val":3744}
+{"idx":"hero","src":"Pyramid in the Sky.txt","val":1483}
+{"idx":"hero","src":"San Angelo - City of Heroes.txt","val":12268}
+{"idx":"hero","src":"The Broken Kingdoms.txt","val":24498}
+{"idx":"hero","src":"The Ultimate Skill.txt","val":6323}
+{"idx":"hero","src":"Vibora Bay.txt","val":104}
+{"idx":"hero","src":"Vibora Bay.txt","val":9730}
+{"idx":"hero","src":"Vibora Bay.txt","val":9878}
+{"idx":"hero","src":"Vibora Bay.txt","val":9900}
+{"idx":"hero","src":"Vibora Bay.txt","val":10229}
+{"idx":"hero","src":"VIPER.txt","val":4719}
+{"idx":"hero","src":"VIPER.txt","val":5146}
+{"idx":"lone-wolf","src":"Adventures Of The Kai.txt","val":1472}
+{"idx":"lone-wolf","src":"Adventures Of The Kai.txt","val":2116}
+{"idx":"lone-wolf","src":"Adventures Of The Kai.txt","val":2134}
+{"idx":"lone-wolf","src":"Adventures Of The Kai.txt","val":2138}
+{"idx":"lone-wolf","src":"Adventures Of The Kai.txt","val":2162}
+{"idx":"lone-wolf","src":"Adventures Of The Kai.txt","val":2164}
+{"idx":"lone-wolf","src":"Adventures Of The Kai.txt","val":4999}
+{"idx":"lone-wolf","src":"Magnamund Menagerie.txt","val":63}
+{"idx":"lone-wolf","src":"Magnamund Menagerie.txt","val":2547}
+{"idx":"lone-wolf","src":"Magnamund Menagerie.txt","val":2580}
+{"idx":"lone-wolf","src":"Magnamund Menagerie.txt","val":2585}
+{"idx":"lone-wolf","src":"Magnamund Menagerie.txt","val":2595}
+{"idx":"lone-wolf","src":"Magnamund Menagerie.txt","val":2599}
+{"idx":"lone-wolf","src":"Magnamund Menagerie.txt","val":6828}
+{"idx":"mage","src":"Guide to the Technocracy.txt","val":7224}
+{"idx":"mage","src":"Progenitors Revised.txt","val":3276}
+{"idx":"metamoph-alpha","src":"GMGC14 - Gen Con 2014 - Program Guide.txt","val":2973}
+{"idx":"metamoph-alpha","src":"GMGC14 - Gen Con 2014 - Program Guide.txt","val":3111}
+{"idx":"metamoph-alpha","src":"MA Mods 2 (Dragon #16).txt","val":143}
+{"idx":"mnds-eye","src":"MET Laws of the Wild Revised Edition.txt","val":5592}
+{"idx":"mnds-eye","src":"MET Minds Eye Theatre Changing Breeds 2.txt","val":5074}
+{"idx":"mnds-eye","src":"MET Minds Eye Theatre Changing Breeds 2.txt","val":5183}
+{"idx":"mnds-eye","src":"MET Minds Eye Theatre Changing Breeds 2.txt","val":5883}
+{"idx":"mnds-eye","src":"MET Minds Eye Theatre Changing Breeds 2.txt","val":5914}
+{"idx":"mnds-eye","src":"MET Minds Eye Theatre Changing Breeds 2.txt","val":5925}
+{"idx":"mnds-eye","src":"MET Minds Eye Theatre Changing Breeds 2.txt","val":6110}
+{"idx":"mnds-eye","src":"MET Minds Eye Theatre Changing Breeds 2.txt","val":6285}
+{"idx":"mnds-eye","src":"MET Minds Eye Theatre Changing Breeds 2.txt","val":6291}
+{"idx":"mnds-eye","src":"MET Minds Eye Theatre Dark Epics.txt","val":1047}
+{"idx":"morrow-project","src":"The Morrow Project - Core Rulebook 4e.txt","val":15502}
+{"idx":"nights-black-agents","src":"Zalozhniy Quartet.txt","val":2640}
+{"idx":"powered-by-apok","src":"Bedlam Hall.txt","val":199}
+{"idx":"powered-by-apok","src":"Legend of the Elements.txt","val":7257}
+{"idx":"powered-by-apok","src":"The Sprawl - NOVEMBER METRIC.txt","val":4475}
+{"idx":"powered-by-apok","src":"Threadbare.txt","val":4740}
+{"idx":"rifter","src":"Dead Reign - Endless Dead.txt","val":5130}
+{"idx":"rifter","src":"Dead Reign - Endless Dead.txt","val":5153}
+{"idx":"rifter","src":"Dead Reign - Endless Dead.txt","val":5157}
+{"idx":"rifter","src":"Rifts - Book of Magic.txt","val":13307}
+{"idx":"rifter","src":"Rifts - Core Rulebook.txt","val":10527}
+{"idx":"rifter","src":"Rifts - Core Rulebook.txt","val":10564}
+{"idx":"rifter","src":"Rifts - Dimension Book 12 - Dimensional Outbreak.txt","val":10164}
+{"idx":"rifter","src":"Rifts - Tales of the Chi Town Burbs.txt","val":6581}
+{"idx":"rifter","src":"Rifts - Tales of the Chi Town Burbs.txt","val":6585}
+{"idx":"rifter","src":"Rifts - World Book 09 - South America 2.txt","val":2021}
+{"idx":"rifter","src":"Rifts - World Book 15 - Spirit West.txt","val":5343}
+{"idx":"rifter","src":"Rifts - World Book 15 - Spirit West.txt","val":5349}
+{"idx":"rifter","src":"Rifts - World Book 15 - Spirit West.txt","val":5359}
+{"idx":"rifter","src":"Rifts - World Book 15 - Spirit West.txt","val":5373}
+{"idx":"rifter","src":"Rifts - World Book 33 - Northern Gun 1.txt","val":4150}
+{"idx":"rifter","src":"Rifts - World Book 33 - Northern Gun 1.txt","val":4290}
+{"idx":"rifter","src":"Rifts - World Book 33 - Northern Gun 1.txt","val":4421}
+{"idx":"rifter","src":"Rifts - World Book 34 - Northern Gun 2.txt","val":10483}
+{"idx":"rifter","src":"Rifts - World Book 34 - Northern Gun 2.txt","val":10486}
+{"idx":"rifter","src":"Rifts - World Book 34 - Northern Gun 2.txt","val":10488}
+{"idx":"rifter","src":"Rifts - World Book 34 - Northern Gun 2.txt","val":10496}
+{"idx":"rifter","src":"Rifts - World Book 34 - Northern Gun 2.txt","val":10506}
+{"idx":"rifter","src":"Rifts - World Book 34 - Northern Gun 2.txt","val":10516}
+{"idx":"rifter","src":"Rifts - World Book 34 - Northern Gun 2.txt","val":10528}
+{"idx":"rifter","src":"Rifts - World Book 34 - Northern Gun 2.txt","val":10534}
+{"idx":"rifter","src":"Rifts - World Book 34 - Northern Gun 2.txt","val":10550}
+{"idx":"rifter","src":"Rifts - World Book 34 - Northern Gun 2.txt","val":10560}
+{"idx":"rifter","src":"Rifts - World Book 34 - Northern Gun 2.txt","val":10631}
+{"idx":"rifter","src":"Rifts - World Book 35 - Megaverse in Flames.txt","val":6971}
+{"idx":"runequest","src":"Hero Wars - Anaxials Roster.txt","val":4819}
+{"idx":"runequest","src":"Legend - Book of Beasts - Legendary Monsters 1.txt","val":60}
+{"idx":"runequest","src":"Legend - Monsters of Legend.txt","val":1856}
+{"idx":"runequest","src":"Legend - Monsters of Legend.txt","val":1888}
+{"idx":"runequest","src":"RuneQuest I - Pirates.txt","val":478}
+{"idx":"runequest","src":"RuneQuest II - Monster Coliseum.txt","val":5109}
+{"idx":"runequest","src":"RuneQuest II - Monster Coliseum.txt","val":5111}
+{"idx":"runequest","src":"RuneQuest II - Monster Coliseum.txt","val":5149}
+{"idx":"runequest","src":"RuneQuest II - Monster Coliseum.txt","val":5175}
+{"idx":"runequest","src":"RuneQuest II - Monster Coliseum.txt","val":5205}
+{"idx":"runequest","src":"RuneQuest II - Monster Coliseum.txt","val":10027}
+{"idx":"runequest","src":"Slayers - Core Rulebook.txt","val":8513}
+{"idx":"runequest","src":"Slayers - Core Rulebook.txt","val":10010}
+{"idx":"runequest","src":"The Rifter #35.txt","val":752}
+{"idx":"savage-worlds","src":"Deadlands Reloaded - 1880 - The Last Sons.txt","val":8197}
+{"idx":"savage-worlds","src":"Deadlands Reloaded - 1881 - Stone and a Hard Place.txt","val":6165}
+{"idx":"savage-worlds","src":"Savage Worlds - 50 Fathoms (Explorers Edition).txt","val":3300}
+{"idx":"savage-worlds","src":"Savage Worlds - 50 Fathoms (Explorers Edition).txt","val":3309}
+{"idx":"savage-worlds","src":"Savage Worlds - 50 Fathoms (Explorers Edition).txt","val":9008}
+{"idx":"savage-worlds","src":"Savage Worlds - 50 Fathoms - Companion.txt","val":759}
+{"idx":"savage-worlds","src":"Savage Worlds - 50 Fathoms - Companion.txt","val":764}
+{"idx":"savage-worlds","src":"Savage Worlds - 50 Fathoms - Companion.txt","val":2206}
+{"idx":"savage-worlds","src":"Savage Worlds - Beasts & Barbarians - Jalizar, City of Thieves.txt","val":1845}
+{"idx":"savage-worlds","src":"Savage Worlds - Beasts & Barbarians - Jalizar, City of Thieves.txt","val":7137}
+{"idx":"savage-worlds","src":"Savage Worlds - Codex Infernus.txt","val":4776}
+{"idx":"savage-worlds","src":"Savage Worlds - Codex Infernus.txt","val":4818}
+{"idx":"savage-worlds","src":"Savage Worlds - Core Rulebook Revised .txt","val":3186}
+{"idx":"savage-worlds","src":"Savage Worlds - Core Rulebook Revised .txt","val":3578}
+{"idx":"savage-worlds","src":"Savage Worlds - Core Rulebook Revised .txt","val":4069}
+{"idx":"savage-worlds","src":"Savage Worlds - Deluxe.txt","val":3698}
+{"idx":"savage-worlds","src":"Savage Worlds - Earthdawn - GM Guide.txt","val":11159}
+{"idx":"savage-worlds","src":"Savage Worlds - East Texas University - Degrees of Horror (1).txt","val":1595}
+{"idx":"savage-worlds","src":"Savage Worlds - East Texas University - Degrees of Horror (1).txt","val":1596}
+{"idx":"savage-worlds","src":"Savage Worlds - East Texas University - Degrees of Horror (1).txt","val":1598}
+{"idx":"savage-worlds","src":"Savage Worlds - East Texas University - Degrees of Horror (1).txt","val":1608}
+{"idx":"savage-worlds","src":"Savage Worlds - East Texas University - Degrees of Horror.txt","val":1595}
+{"idx":"savage-worlds","src":"Savage Worlds - East Texas University - Degrees of Horror.txt","val":1596}
+{"idx":"savage-worlds","src":"Savage Worlds - East Texas University - Degrees of Horror.txt","val":1598}
+{"idx":"savage-worlds","src":"Savage Worlds - East Texas University - Degrees of Horror.txt","val":1608}
+{"idx":"savage-worlds","src":"Savage Worlds - Explorers Edition.txt","val":3286}
+{"idx":"savage-worlds","src":"Savage Worlds - Figure Flats - Critters #01.txt","val":21}
+{"idx":"savage-worlds","src":"Savage Worlds - Hellfrost - Gazetteer.txt","val":3545}
+{"idx":"savage-worlds","src":"Savage Worlds - High-Space 2E.txt","val":5481}
+{"idx":"savage-worlds","src":"Savage Worlds - Horror - Bestiary Toolkit.txt","val":1739}
+{"idx":"savage-worlds","src":"Savage Worlds - Horror - Pine Ridge Horror.txt","val":696}
+{"idx":"savage-worlds","src":"Savage Worlds - Necessary Evil - Breakout.txt","val":3883}
+{"idx":"savage-worlds","src":"Savage Worlds - Necessary Evil - Breakout.txt","val":3886}
+{"idx":"savage-worlds","src":"Savage Worlds - Necessary Evil - Breakout.txt","val":5237}
+{"idx":"savage-worlds","src":"Savage Worlds - Orwell Industries - Powers & Perils Number One.txt","val":2631}
+{"idx":"savage-worlds","src":"Savage Worlds - Pirates of the Spanish Main.txt","val":11792}
+{"idx":"savage-worlds","src":"Savage Worlds - Pulp - Adv - Untold Stories.txt","val":530}
+{"idx":"savage-worlds","src":"Savage Worlds - Pulp - Adv - Untold Stories.txt","val":532}
+{"idx":"savage-worlds","src":"Savage Worlds - Pulp - Adv - Untold Stories.txt","val":533}
+{"idx":"savage-worlds","src":"Savage Worlds - Pulp - Adv - Untold Stories.txt","val":609}
+{"idx":"savage-worlds","src":"Savage Worlds - Pulp - Adv - Untold Stories.txt","val":1190}
+{"idx":"savage-worlds","src":"Savage Worlds - Ravaged Earth - Adv - The Search for the Fountain of Youth.txt","val":474}
+{"idx":"savage-worlds","src":"Savage Worlds - Ravaged Earth - Adv - The Search for the Fountain of Youth.txt","val":528}
+{"idx":"savage-worlds","src":"Savage Worlds - Ravaged Earth - Adv - The Search for the Fountain of Youth.txt","val":539}
+{"idx":"savage-worlds","src":"Savage Worlds - Rippers - Companion.txt","val":2809}
+{"idx":"savage-worlds","src":"Savage Worlds - RunePunk.txt","val":9170}
+{"idx":"savage-worlds","src":"Savage Worlds - Savage Beasts.txt","val":1405}
+{"idx":"savage-worlds","src":"Savage Worlds - Savage Bond - Operatives Handbook.txt","val":960}
+{"idx":"savage-worlds","src":"Savage Worlds - Suzerain - Noir Knights.txt","val":3227}
+{"idx":"savage-worlds","src":"Savage Worlds - Suzerain - Noir Knights.txt","val":3365}
+{"idx":"savage-worlds","src":"Savage Worlds - The Day after Ragnarok.txt","val":4056}
+{"idx":"savage-worlds","src":"Savage Worlds - The Day after Ragnarok.txt","val":4726}
+{"idx":"savage-worlds","src":"Savage Worlds - The Goon - The Great Bollaire Street Block Party.txt","val":820}
+{"idx":"savage-worlds","src":"Savage Worlds - The Goon.txt","val":4147}
+{"idx":"savage-worlds","src":"Savage Worlds - The Goon.txt","val":7286}
+{"idx":"savage-worlds","src":"Savage Worlds - The Goon.txt","val":7291}
+{"idx":"shadowrun","src":"26101 - Running Wild.txt","val":5080}
+{"idx":"shadowrun","src":"26101 - Running Wild.txt","val":5087}
+{"idx":"shadowrun","src":"26101 - Running Wild.txt","val":7640}
+{"idx":"shadowrun","src":"26101 - Running Wild.txt","val":8724}
+{"idx":"shadowrun","src":"26101 - Running Wild.txt","val":8730}
+{"idx":"shadowrun","src":"26101 - Running Wild.txt","val":8782}
+{"idx":"shadowrun","src":"26101 - Running Wild.txt","val":12112}
+{"idx":"shadowrun","src":"26205 - Sixth World Almanac.txt","val":6913}
+{"idx":"shadowrun","src":"26211 - The Clutch of Dragons.txt","val":6758}
+{"idx":"shadowrun","src":"26211 - The Clutch of Dragons.txt","val":6763}
+{"idx":"shadowrun","src":"26S014 - Magical Societies.txt","val":291}
+{"idx":"shadowrun","src":"26S014 - Magical Societies.txt","val":292}
+{"idx":"shadowrun","src":"FASA7002 - Shadowrun - Critters.txt","val":1263}
+{"idx":"shadowrun","src":"Shadowrun 4E - Magical Societies.txt","val":291}
+{"idx":"shadowrun","src":"Shadowrun 4E - Magical Societies.txt","val":292}
+{"idx":"shadowrun","src":"Shadowrun 4E - Magical Societies_2.txt","val":291}
+{"idx":"shadowrun","src":"Shadowrun 4E - Magical Societies_2.txt","val":292}
+{"idx":"shadowrun","src":"Shadowrun 4E - Missions - Back In Business.txt","val":1137}
+{"idx":"shadowrun","src":"Shadowrun 4E - Running Wild.txt","val":5107}
+{"idx":"shadowrun","src":"Shadowrun 4E - Running Wild.txt","val":5114}
+{"idx":"shadowrun","src":"Shadowrun 4E - Running Wild.txt","val":7667}
+{"idx":"shadowrun","src":"Shadowrun 4E - Running Wild.txt","val":8751}
+{"idx":"shadowrun","src":"Shadowrun 4E - Running Wild.txt","val":8757}
+{"idx":"shadowrun","src":"Shadowrun 4E - Running Wild.txt","val":8809}
+{"idx":"shadowrun","src":"Shadowrun 4E - Running Wild.txt","val":12139}
+{"idx":"shadowrun","src":"Shadowrun 4E - Sixth World Almanac.txt","val":6913}
+{"idx":"shadowrun","src":"Shadowrun 4E - The Clutch of Dragons.txt","val":6758}
+{"idx":"shadowrun","src":"Shadowrun 4E - The Clutch of Dragons.txt","val":6763}
+{"idx":"shadowrun","src":"Shadowrun_5E_Forbidden_Arcana.txt","val":2884}
+{"idx":"shadowrun","src":"Shadowrun_5E_Hard_Targets.txt","val":9043}
+{"idx":"shadowrun","src":"Shadowrun_5E_Howling_Shadows.txt","val":61}
+{"idx":"shadowrun","src":"Shadowrun_5E_Howling_Shadows.txt","val":2385}
+{"idx":"shadowrun","src":"Shadowrun_5E_Howling_Shadows.txt","val":2404}
+{"idx":"shadowrun","src":"Shadowrun_5E_Howling_Shadows.txt","val":3285}
+{"idx":"shadowrun","src":"Shadowrun_5E_Howling_Shadows.txt","val":3657}
+{"idx":"shadowrun","src":"Shadows_of_Latin_America_v1-2.txt","val":1055}
+{"idx":"shadowrun","src":"Shadows_of_Latin_America_v1-2.txt","val":7528}
+{"idx":"shadowrun","src":"SRM4-00 - Back In Business.txt","val":1137}
+{"idx":"silent-death","src":"7210 Renegades The Espan Rebellion.txt","val":1025}
+{"idx":"silent-death","src":"7210 Renegades The Espan Rebellion.txt","val":1781}
+{"idx":"swords-in-source","src":"WW16109 The Book of Iron Might.txt","val":2995}
+{"idx":"swords-in-source","src":"WW16155 Mastering Iron Heroes.txt","val":2221}
+{"idx":"swords-in-source","src":"WW17252 Gamma World - Machines and Mutants.txt","val":2943}
+{"idx":"swords-in-source","src":"WW17252 Gamma World - Machines and Mutants.txt","val":2961}
+{"idx":"swords-in-source","src":"WW17252 Gamma World - Machines and Mutants.txt","val":2967}
+{"idx":"swords-in-source","src":"WW17252 Gamma World - Machines and Mutants.txt","val":10974}
+{"idx":"swords-in-source","src":"WW17252 Gamma World - Machines and Mutants.txt","val":10982}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":28}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":1525}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":1551}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":1708}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":1740}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":1741}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":1745}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":1747}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":1758}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":1759}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":1762}
+{"idx":"swords-in-source","src":"WW8300 Creature Collection I.txt","val":13949}
+{"idx":"swords-in-source","src":"WW8340 Scarred Lands - Gazetteer - Termana.txt","val":672}
+{"idx":"swords-in-source","src":"WW8341 Scarred Lands - Campaign Setting - Termana.txt","val":7251}
+{"idx":"swords-in-source","src":"WW8385 Trouble at Durbenford (8th-14th).txt","val":921}
+{"idx":"swords-in-source","src":"WW8385 Trouble at Durbenford (8th-14th).txt","val":4092}
+{"idx":"swords-in-source","src":"WW8385 Trouble at Durbenford (8th-14th).txt","val":10441}
+{"idx":"swords-in-source","src":"WW8393 Caverns of Thracia (3th-8th).txt","val":5921}
+{"idx":"swords-in-source","src":"WW8394 Wilderlands of High Fantasy - Campaign Setting.txt","val":7529}
+{"idx":"tri-tec","src":"Bureau 13 - TTG3014 The Black Powder Years.txt","val":245}
+{"idx":"vampire","src":"Guide to the Sabbat (revised).txt","val":1390}
+{"idx":"vampire","src":"New York by Night.txt","val":2159}
+{"idx":"vampire","src":"New York by Night.txt","val":2160}
+{"idx":"vampire","src":"Players Guide to the Bloodlines.txt","val":6026}
+{"idx":"vampire","src":"Players Guide to the Bloodlines.txt","val":6362}
+{"idx":"vampire","src":"Revised - Clanbook Gangrel.txt","val":3644}
+{"idx":"vampire","src":"Revised - Clanbook Gangrel.txt","val":3685}
+{"idx":"vampire","src":"Revised - Clanbook Nosferatu.txt","val":2207}
+{"idx":"vampire","src":"Revised - Clanbook Nosferatu.txt","val":3337}
+{"idx":"vampire","src":"Storytellers Handbook (revised).txt","val":6708}
+{"idx":"vampire","src":"V20 - Core Rulebook.txt","val":21191}
+{"idx":"vampire","src":"V20 - Ghouls and Revenants.txt","val":157}
+{"idx":"vampire","src":"V20 - Ghouls and Revenants.txt","val":3222}
+{"idx":"vampire","src":"V20 - Ghouls and Revenants.txt","val":7978}
+{"idx":"vampire","src":"V20 - Paths of Storytelling.txt","val":5196}
+{"idx":"vampire","src":"V20 - Paths of Storytelling.txt","val":5212}
+{"idx":"werewolf","src":"Breedbook 1 - Bastet.txt","val":7080}
+{"idx":"werewolf","src":"Hengeyokai - Shapeshifters Of The East.txt","val":4872}
+{"idx":"werewolf","src":"Players Guide (1st Ed.).txt","val":8147}
+{"idx":"werewolf","src":"Players Guide (1st Ed.).txt","val":8262}
+{"idx":"werewolf","src":"Players Guide (2nd ed).txt","val":8892}
+{"idx":"werewolf","src":"Players Guide (2nd ed).txt","val":9028}
+{"idx":"werewolf","src":"W20 - Changing Breeds.txt","val":6866}
+{"idx":"werewolf","src":"W20 - Changing Breeds.txt","val":7291}
+{"idx":"werewolf","src":"W20 - Changing Breeds.txt","val":10432}
+{"idx":"werewolf","src":"W20 - Umbra - The Velvet Shadow.txt","val":3867}
+{"idx":"werewolf","src":"W20 - Umbra - The Velvet Shadow.txt","val":7933}
+{"idx":"werewolf","src":"Werewolf the Apocalypse Core (Revised).txt","val":6898}
+{"idx":"werewolf","src":"Werewolf the Forsaken - Hunting Ground - The Rockies.txt","val":8080}
+{"idx":"werewolf","src":"Werewolf the Forsaken - Hunting Ground - The Rockies.txt","val":8086}
+{"idx":"wilderlands","src":"D20 Caverns of Thracia.txt","val":5921}
+{"idx":"wilderlands","src":"D20 City-State of the Invincible Overlord (1).txt","val":5136}
+{"idx":"wilderlands","src":"D20 City-State of the Invincible Overlord.txt","val":5136}
+{"idx":"wilderlands","src":"D20 Wilderlands of High Fantasy.txt","val":7529}
+{"idx":"wilderlands","src":"Fight On 03.txt","val":2100}
+{"idx":"wilderlands","src":"JG1200 Tarantis (dist).txt","val":9704}
+{"idx":"wilderlands","src":"JG550 Field Guide to Encounters, vol 2.txt","val":9827}
+{"idx":"wish-granting","src":"By The Docks Of Big Lake.txt","val":3108}
+{"idx":"wish-granting","src":"Chuubos Marvelous Wish-Granting Engine.txt","val":12168}
+{"idx":"wish-granting","src":"Techno Players Guide.txt","val":756}

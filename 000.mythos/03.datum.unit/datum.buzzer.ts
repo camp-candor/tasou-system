@@ -1,0 +1,9 @@
+export { initDatum  } from "./buz/datum.buzz";
+export { updateDatum  } from "./buz/datum.buzz";
+export { readDatum  } from "./buz/datum.buzz";
+export { writeDatum  } from "./buz/datum.buzz";
+export { deleteDatum  } from "./buz/datum.buzz";
+export { removeDatum  } from "./buz/datum.buzz";
+export { createDatum  } from "./buz/datum.buzz";
+export { listDatum  } from "./buz/datum.buzz";
+export { openDatum  } from "./buz/datum.buzz";
