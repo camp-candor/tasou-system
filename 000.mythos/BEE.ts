@@ -4,6 +4,7 @@ import MythosUnit from "./00.mythos.unit/mythos.unit";
 import SignalUnit from "./01.signal.unit/signal.unit";
 import GearsUnit from "./02.gears.unit/gears.unit";
 import DatumUnit from "./03.datum.unit/datum.unit";
+import CharacterUnit from "./05.character.unit/character.unit";
 import TitleUnit from "./10.title.unit/title.unit";
 import FrameUnit from "./20.frame.unit/frame.unit";
 import OpenrouterUnit from "./81.openrouter.unit/openrouter.unit";
@@ -21,6 +22,8 @@ import Gears from "./02.gears.unit/fce/gears.interface";
 import { GearsModel } from "./02.gears.unit/gears.model";
 import Datum from "./03.datum.unit/fce/datum.interface";
 import { DatumModel } from "./03.datum.unit/datum.model";
+import Character from "./05.character.unit/fce/character.interface";
+import { CharacterModel } from "./05.character.unit/character.model";
 import Title from "./10.title.unit/fce/title.interface";
 import { TitleModel } from "./10.title.unit/title.model";
 import Frame from "./20.frame.unit/fce/frame.interface";
@@ -37,12 +40,13 @@ import Bus from "./99.bus.unit/fce/bus.interface";
 import { BusModel } from "./99.bus.unit/bus.model";
 
 
-export const list: Array<any> = [MythosUnit,SignalUnit,GearsUnit,DatumUnit,TitleUnit,FrameUnit,OpenrouterUnit,SupabaseUnit,GithubUnit,CollectUnit,BusUnit];
+export const list: Array<any> = [MythosUnit,SignalUnit,GearsUnit,DatumUnit,CharacterUnit,TitleUnit,FrameUnit,OpenrouterUnit,SupabaseUnit,GithubUnit,CollectUnit,BusUnit];
 
 import * as reduceFromMythos from "./00.mythos.unit/mythos.reduce";
 import * as reduceFromSignal from "./01.signal.unit/signal.reduce";
 import * as reduceFromGears from "./02.gears.unit/gears.reduce";
 import * as reduceFromDatum from "./03.datum.unit/datum.reduce";
+import * as reduceFromCharacter from "./05.character.unit/character.reduce";
 import * as reduceFromTitle from "./10.title.unit/title.reduce";
 import * as reduceFromFrame from "./20.frame.unit/frame.reduce";
 import * as reduceFromOpenrouter from "./81.openrouter.unit/openrouter.reduce";
@@ -57,6 +61,7 @@ export const reducer: any = {
 signal : reduceFromSignal.reducer, 
 gears : reduceFromGears.reducer, 
 datum : reduceFromDatum.reducer, 
+character : reduceFromCharacter.reducer, 
 title : reduceFromTitle.reducer, 
 frame : reduceFromFrame.reducer, 
 openrouter : reduceFromOpenrouter.reducer, 
@@ -73,6 +78,7 @@ export default class UnitData implements Model {
 signal : Signal = new SignalModel();
 gears : Gears = new GearsModel();
 datum : Datum = new DatumModel();
+character : Character = new CharacterModel();
 title : Title = new TitleModel();
 frame : Frame = new FrameModel();
 openrouter : Openrouter = new OpenrouterModel();
