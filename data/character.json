@@ -1,0 +1,251 @@
+{
+  "info": {
+    "version": "5.2",
+    "source": "System Reference Document (SRD)",
+    "description": "Core data for a D&D 5th Edition character generator based on SRD 5.2."
+  },
+  "ability_scores": [
+    { "name": "Strength", "abbreviation": "STR" },
+    { "name": "Dexterity", "abbreviation": "DEX" },
+    { "name": "Constitution", "abbreviation": "CON" },
+    { "name": "Intelligence", "abbreviation": "INT" },
+    { "name": "Wisdom", "abbreviation": "WIS" },
+    { "name": "Charisma", "abbreviation": "CHA" }
+  ],
+  "skills": [
+    { "name": "Acrobatics", "ability_score": "Dexterity" },
+    { "name": "Animal Handling", "ability_score": "Wisdom" },
+    { "name": "Arcana", "ability_score": "Intelligence" },
+    
+    { "name": "Survival", "ability_score": "Wisdom" }
+  ],
+  "classes": [
+
+    {
+      "name": "Barbarian",
+      "hit_die": 12,
+      "primary_abilities": ["Strength"],
+      "saving_throw_proficiencies": ["Strength", "Constitution"],
+      "proficiencies": {
+        "armor": ["Light armor", "Medium armor", "Shields"],
+        "weapons": ["Simple weapons", "Martial weapons"],
+        "tools": []
+      },
+      "skill_proficiencies": {
+        "choose": 2,
+        "from": ["Animal Handling", "Athletics", "Intimidation", "Nature", "Perception", "Survival"]
+      },
+      "starting_equipment": [
+        {
+          "choose": 1,
+          "from": [
+            { "item": "Greataxe", "quantity": 1 },
+            { "item": "Any Martial Melee Weapon", "quantity": 1 } 
+          ]
+        },
+        {
+          "choose": 1,
+          "from": [
+            { "item": "Handaxe", "quantity": 2 },
+            { "item": "Any Simple Weapon", "quantity": 1 }
+          ]
+        },
+        { "item": "Explorer's Pack", "quantity": 1 },
+        { "item": "Javelin", "quantity": 4 }
+      ],
+      "features": [
+        {
+          "level": 1,
+          "name": "Rage",
+          "description": "In battle, you fight with primal ferocity..."
+        },
+        {
+          "level": 1,
+          "name": "Unarmored Defense",
+          "description": "While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier."
+        },
+        
+        {
+          "level": 20,
+          "name": "Primal Champion",
+          "description": "Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24."
+        }
+      ],
+      "subclasses": [
+        {
+          "name": "Path of the Berserker",
+          "level": 3,
+          "features": [
+            {
+              "level": 3,
+              "name": "Frenzy",
+              "description": "Starting when you choose this path at 3rd level, you can go into a frenzy when you rage..."
+            }
+            
+          ]
+        }
+      ]
+    },
+    
+    {
+      "name": "Wizard",
+      "hit_die": 6,
+      "primary_abilities": ["Intelligence"],
+      "saving_throw_proficiencies": ["Intelligence", "Wisdom"],
+      
+      "spellcasting": {
+        "ability": "Intelligence",
+        "spell_list": "Wizard", 
+        "slots_per_level": [
+          
+          [2, 0, 0, 0, 0, 0, 0, 0, 0], 
+          [3, 0, 0, 0, 0, 0, 0, 0, 0], 
+          [4, 2, 0, 0, 0, 0, 0, 0, 0], 
+          
+          [4, 3, 3, 3, 3, 2, 2, 1, 1] 
+        ]
+      },
+      "features": [
+        {
+          "level": 1,
+          "name": "Spellcasting",
+          "description": "As a student of arcane magic, you have a spellbook containing spells..."
+        },
+        {
+          "level": 1,
+          "name": "Arcane Recovery",
+          "description": "You have learned to regain some of your magical energy by studying your spellbook..."
+        }
+      ],
+      "subclasses": [
+        {
+          "name": "School of Evocation",
+          "level": 2,
+          "features": [
+            {
+              "level": 2,
+              "name": "Evocation Savant",
+              "description": "Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved."
+            }
+          ]
+        }
+      ]
+    }
+    
+  ],
+  "species": [
+    
+    {
+      "name": "Elf",
+      "creature_type": "Humanoid",
+      "size": "Medium",
+      "speed": 30,
+      "languages": ["Common", "Elvish"],
+      "traits": [
+        {
+          "name": "Darkvision",
+          "description": "Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light."
+        },
+        {
+          "name": "Keen Senses",
+          "description": "You have proficiency in the Perception skill."
+        },
+        {
+          "name": "Fey Ancestry",
+          "description": "You have advantage on saving throws against being charmed, and magic can’t put you to sleep."
+        },
+        {
+          "name": "Trance",
+          "description": "Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day."
+        }
+      ]
+    }
+    
+  ],
+  "backgrounds": [
+    
+    {
+      "name": "Acolyte",
+      "ability_scores": ["Intelligence", "Wisdom", "Charisma"],
+      "skill_proficiencies": ["Insight", "Religion"],
+      "tool_proficiencies": [],
+      "languages": {
+        "choose": 2,
+        "from": "any"
+      },
+      "starting_equipment": [
+        { "item": "Holy Symbol", "quantity": 1 },
+        { "item": "Prayer Book or Prayer Wheel", "quantity": 1 },
+        { "item": "Incense", "quantity": 5, "unit": "sticks" },
+        { "item": "Vestments", "quantity": 1 },
+        { "item": "Common Clothes", "quantity": 1 },
+        { "item": "Gold", "quantity": 15, "unit": "gp" }
+      ],
+      "feature": {
+        "name": "Shelter of the Faithful",
+        "description": "As an acolyte, you command the respect of those who share your faith..."
+      },
+      "feat": "Magic Initiate (Cleric)"
+    }
+
+  ],
+  "equipment": {
+    "weapons": [
+      {
+        "name": "Greataxe",
+        "category": "Martial Melee Weapon",
+        "cost": "30 gp",
+        "damage": "1d12",
+        "damage_type": "Slashing",
+        "weight": "7 lb.",
+        "properties": ["Heavy", "Two-Handed"],
+        "mastery": "Cleave"
+      }
+    ],
+    "armor": [
+      {
+        "name": "Leather Armor",
+        "category": "Light Armor",
+        "cost": "10 gp",
+        "ac": {
+          "base": 11,
+          "dex_bonus": true,
+          "max_dex_bonus": null
+        },
+        "strength_requirement": 0,
+        "stealth_disadvantage": false,
+        "weight": "10 lb."
+      }
+    ],
+    "adventuring_gear": [
+      {
+        "name": "Explorer's Pack",
+        "cost": "10 gp",
+        "weight": "59 lb.",
+        "contents": [
+          "Backpack", "Bedroll", "Mess kit", "Tinderbox",
+          "10 torches", "10 days of rations", "Waterskin",
+          "50 feet of hempen rope"
+        ]
+      }
+    ]
+  },
+  "spells": [
+    {
+      "name": "Fireball",
+      "level": 3,
+      "school": "Evocation",
+      "casting_time": "1 Action",
+      "range": "150 feet",
+      "components": ["V", "S", "M"],
+      "material_component": "a tiny ball of bat guano and sulfur",
+      "duration": "Instantaneous",
+      "is_ritual": false,
+      "requires_concentration": false,
+      "description": "A bright streak flashes from your pointing finger to a point you choose within range...",
+      "higher_levels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
+      "classes": ["Sorcerer", "Wizard"]
+    }
+    
+  ]
+}
