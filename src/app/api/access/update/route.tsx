@@ -5,7 +5,7 @@ import { NextRequest } from 'next/server';
 import { verifyToken } from '@clerk/backend';
 
 // Define the allowed origins.
-const allowedOrigins = ['*']; // For production, specify your frontend URL
+const allowedOrigins = ['mythos.tattoo', 'www.mythos.tattoo', 'rpg.mythos.tattoo']; // For production, specify your frontend URL
 
 const corsHeaders = {
   'Access-Control-Allow-Origin': allowedOrigins.join(', '),
@@ -29,6 +29,9 @@ export async function GET(
 
   //const token = authHeader.substring(7);
   const token = context.params.token
+  
+  console.log("do you have a token " + token )
+  
   let userId: string;
 
   try {
