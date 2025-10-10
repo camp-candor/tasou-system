@@ -6,9 +6,7 @@ import { verifyToken } from "@clerk/backend";
 
 // Define the allowed origins.
 const allowedOrigins = [
-  "mythos.tattoo",
-  "www.mythos.tattoo",
-  "rpg.mythos.tattoo",
+  "https://rpg.mythos.tattoo"
 ]; // For production, specify your frontend URL
 
 const corsHeaders = {
