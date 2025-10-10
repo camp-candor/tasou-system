@@ -31,7 +31,7 @@ export async function GET(
     // Proceed with your business logic...
     // var bit = await global.MYTHOS(ActDat.READ_DATUM, { idx: context.params.idx, userId: userId });
     
-    return NextResponse.json({ message: `Signed In as ${userId}` });
+    return NextResponse.json({ message: `Signed In to Mythos.tattoo as ${userId}` });
 
   } catch (error) {
     // 3. ANY error thrown by `verifyToken` indicates a validation failure.
