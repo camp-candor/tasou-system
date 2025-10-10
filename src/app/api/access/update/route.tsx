@@ -1,25 +1,26 @@
 // app/api/your-route/[idx]/route.ts
 
-import { NextRequest } from 'next/server';
+import { NextRequest } from "next/server";
 // Import only the necessary function from the backend package
-import { verifyToken } from '@clerk/backend';
+import { verifyToken } from "@clerk/backend";
 
 // Define the allowed origins.
-const allowedOrigins = ['mythos.tattoo', 'www.mythos.tattoo', 'rpg.mythos.tattoo']; // For production, specify your frontend URL
+const allowedOrigins = [
+  "mythos.tattoo",
+  "www.mythos.tattoo",
+  "rpg.mythos.tattoo",
+]; // For production, specify your frontend URL
 
 const corsHeaders = {
-  'Access-Control-Allow-Origin': allowedOrigins.join(', '),
-  'Access-Control-Allow-Methods': 'GET, OPTIONS',
-  'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+  "Access-Control-Allow-Origin": allowedOrigins.join(", "),
+  "Access-Control-Allow-Methods": "GET, OPTIONS",
+  "Access-Control-Allow-Headers": "Content-Type, Authorization",
 };
 
-export async function GET(
-  request: NextRequest,
-  context: { params: { token: string } }
-) {
+export async function GET( request: NextRequest ) {
   // --- 1. Authentication Stage (Same as before) ---
   //const authHeader = request.headers.get('authorization');
-  
+
   //if (!authHeader || !authHeader.startsWith('Bearer ')) {
   //  return new Response(
   //    JSON.stringify({ message: 'Authentication failed: No token provided.' }),
@@ -28,29 +29,36 @@ export async function GET(
   //}
 
   //const token = authHeader.substring(7);
-  const token = context.params.token
-  
-  console.log("do you have a token " + token )
-  
+  //const token = context.params.token
+
+  const searchParams = request.nextUrl.searchParams;
+  const token = searchParams.get("token"); //
+
+  console.log("do you have a token " + token);
+
   let userId: string;
 
   try {
-    const claims = await verifyToken(token, { jwtKey: process.env.CLERK_JWT_KEY });
+    const claims = await verifyToken(token, {
+      jwtKey: process.env.CLERK_JWT_KEY,
+    });
     userId = claims.sub; // The userId is in the `sub` (subject) claim
 
     if (!userId) {
-      throw new Error('User ID missing from token claims');
+      throw new Error("User ID missing from token claims");
     }
 
     console.log(`Request authenticated for user: ${userId}`);
-
   } catch (error) {
     const errorMessage = error instanceof Error ? error.message : String(error);
     console.error("Authentication error:", errorMessage);
-    
+
     return new Response(
-      JSON.stringify({ message: 'Authentication failed', error: errorMessage }),
-      { status: 401, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+      JSON.stringify({ message: "Authentication failed", error: errorMessage }),
+      {
+        status: 401,
+        headers: { ...corsHeaders, "Content-Type": "application/json" },
+      },
     );
   }
 
@@ -66,8 +74,10 @@ export async function GET(
       };
 
       // Immediately send a confirmation event
-      sendEvent('connected', { message: `Signed In to Mythos.tattoo as ${userId}` });
-      
+      sendEvent("connected", {
+        message: `Signed In to Mythos.tattoo as ${userId}`,
+      });
+
       // This is where your continuous business logic would go.
       // We'll simulate it with a timer that sends an update every 2 seconds.
       const intervalId = setInterval(() => {
@@ -77,7 +87,7 @@ export async function GET(
           // In a real app, you might get this from your `MYTHOS` function
           // e.g., data: await global.MYTHOS(ActDat.READ_DATUM, ...)
         };
-        sendEvent('message', mockData);
+        sendEvent("message", mockData);
       }, 2000);
 
       // Clean up when the client closes the connection
@@ -93,9 +103,9 @@ export async function GET(
   return new Response(stream, {
     headers: {
       ...corsHeaders,
-      'Content-Type': 'text/event-stream',
-      'Connection': 'keep-alive',
-      'Cache-Control': 'no-cache, no-transform',
+      "Content-Type": "text/event-stream",
+      Connection: "keep-alive",
+      "Cache-Control": "no-cache, no-transform",
     },
   });
 }
