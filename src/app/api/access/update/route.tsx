@@ -15,19 +15,20 @@ const corsHeaders = {
 
 export async function GET(
   request: NextRequest,
-  context: { params: { idx: string } }
+  context: { params: { token: string } }
 ) {
   // --- 1. Authentication Stage (Same as before) ---
-  const authHeader = request.headers.get('authorization');
+  //const authHeader = request.headers.get('authorization');
   
-  if (!authHeader || !authHeader.startsWith('Bearer ')) {
-    return new Response(
-      JSON.stringify({ message: 'Authentication failed: No token provided.' }),
-      { status: 401, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
-    );
-  }
+  //if (!authHeader || !authHeader.startsWith('Bearer ')) {
+  //  return new Response(
+  //    JSON.stringify({ message: 'Authentication failed: No token provided.' }),
+  //    { status: 401, headers: { ...corsHeaders, 'Content-Type': 'application/json' } }
+  //  );
+  //}
 
-  const token = authHeader.substring(7);
+  //const token = authHeader.substring(7);
+  const token = context.params.token
   let userId: string;
 
   try {
