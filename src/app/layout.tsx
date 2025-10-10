@@ -3,7 +3,6 @@ import type { Metadata } from "next";
 import Providers from "../lib/query-provider";
 import "./globals.css";
 
-import { ClerkProvider } from "@clerk/nextjs";
 
 export const metadata: Metadata = {
   title: "Next App Mantine Tailwind Template",
@@ -16,7 +15,6 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <ClerkProvider>
       <html lang="en" suppressHydrationWarning>
         <body className="antialiased">
           <Providers>
@@ -25,6 +23,6 @@ export default function RootLayout({
           </Providers>
         </body>
       </html>
-    </ClerkProvider>
+  
   );
 }
