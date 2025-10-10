@@ -40,13 +40,16 @@ export async function GET( request: NextRequest ) {
     const claims = await verifyToken(token, {
       jwtKey: process.env.CLERK_JWT_KEY,
     });
-    userId = claims.sub; // The userId is in the `sub` (subject) claim
+    
+     console.log("trying claims");
 
-    if (!userId) {
-      throw new Error("User ID missing from token claims");
-    }
+    //userId = claims.sub; // The userId is in the `sub` (subject) claim
 
-    console.log(`Request authenticated for user: ${userId}`);
+    //if (!userId) {
+    //  throw new Error("User ID missing from token claims");
+    //}
+
+    //console.log(`Request authenticated for user: ${userId}`);
   } catch (error) {
     const errorMessage = error instanceof Error ? error.message : String(error);
     console.error("Authentication error:", errorMessage);
