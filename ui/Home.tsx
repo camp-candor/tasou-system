@@ -14,7 +14,7 @@ export default function EarthlyDecorativeFrame() {
     return (
         <div>
 
-                   TASOU _ SYSTEM
+                   TASOU _ SYSTEM 0.0.0
               
         </div>)
 }
