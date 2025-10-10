@@ -30,6 +30,7 @@ export async function GET(
     // 1. Call `verifyToken` with the token string.
     const claims = await verifyToken(token, { jwtKey: process.env.CLERK_JWT_KEY });
 
+    
     // 2. The `userId` is in the `sub` (subject) claim of the token.
     const userId = claims.sub;
 
