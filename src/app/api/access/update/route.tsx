@@ -94,7 +94,7 @@ export async function GET( request: NextRequest ) {
           // e.g., data: await global.MYTHOS(ActDat.READ_DATUM, ...)
         };
         sendEvent("message", mockData);
-      }, 2000);
+      }, 6000);
 
       // Clean up when the client closes the connection
       request.signal.onabort = () => {
