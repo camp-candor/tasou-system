@@ -28,6 +28,9 @@ export async function GET(
 
   try {
     // 1. Call `verifyToken` with the token string.
+
+      console.log("trying claims from read access");
+
     const claims = await verifyToken(token, { jwtKey: process.env.CLERK_JWT_KEY });
 
     
