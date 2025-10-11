@@ -37,11 +37,15 @@ export async function GET( request: NextRequest ) {
   let userId: string;
 
   try {
+
+       console.log("trying claims");
+
+
     const claims = await verifyToken(token, {
       jwtKey: process.env.CLERK_JWT_KEY,
     });
     
-     console.log("trying claims");
+   console.log("claim succeed");
 
     //userId = claims.sub; // The userId is in the `sub` (subject) claim
 
