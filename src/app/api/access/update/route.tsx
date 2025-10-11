@@ -47,13 +47,14 @@ export async function GET( request: NextRequest ) {
     
    console.log("claim succeed");
 
-    //userId = claims.sub; // The userId is in the `sub` (subject) claim
+    userId = claims.sub; // The userId is in the `sub` (subject) claim
 
     //if (!userId) {
     //  throw new Error("User ID missing from token claims");
     //}
 
-    //console.log(`Request authenticated for user: ${userId}`);
+    console.log(`Request authenticated for user: ${userId}`);
+    
   } catch (error) {
     const errorMessage = error instanceof Error ? error.message : String(error);
     console.error("Authentication error:", errorMessage);
