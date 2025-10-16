@@ -69,6 +69,18 @@ export const STATUS_MYTHOS = "[Status action] Status Mythos";
  constructor(public bale: MythosBit) {}
  }
  
+export const COMPILE_MYTHOS = "[Compile action] Compile Mythos";
+ export class CompileMythos implements Action {
+ readonly type = COMPILE_MYTHOS;
+ constructor(public bale: MythosBit) {}
+ }
+
+export const ERROR_MYTHOS = "[Error action] Error Mythos";
+ export class ErrorMythos implements Action {
+ readonly type = ERROR_MYTHOS;
+ constructor(public bale: MythosBit) {}
+ }
+
 export type Actions = | InitMythos | UpdateMythos
 | OpenMythos
 | CreateMythos
@@ -79,3 +91,5 @@ export type Actions = | InitMythos | UpdateMythos
 | IncrementMythos
 | DataMythos
 | StatusMythos
+| CompileMythos
+| ErrorMythos
