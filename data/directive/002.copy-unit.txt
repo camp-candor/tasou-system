@@ -1,5 +1,5 @@
 look at the structure of 000.mythos/05.datum.unit
-copy the structure into a new directory called 06.conflict
+copy the structure into a new directory called 06.battle
 take note of the pattern around the use of the word datum
-apply this pattern when updating all mentions of 'datum' with in the new directory named 06.conflict
-replace all of the mentions of the word datum with the word conflict with in 06.conflict
+apply this pattern when updating all mentions of 'datum' with in the new directory named 06.battle
+replace all of the mentions of the word datum with the word conflict with in 06.battle
