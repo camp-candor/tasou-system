@@ -37,4 +37,6 @@ export class MythosModel implements Mythos {
     localLocation:string = 'http://localhost:3005/api/'
     remoteLocation:string = "https://zero01-alligator-quest.onrender.com/api"
 
+    error: any;
+    errorLevel: number;
 }

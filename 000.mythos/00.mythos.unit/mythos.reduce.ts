@@ -41,6 +41,17 @@ export function reducer(model: MythosModel = new MythosModel(), act: Act.Actions
 case Act.STATUS_MYTHOS:
  return Buzz.statusMythos(clone(model), act.bale, state);
  
+case Act.COMPILE_MYTHOS:
+            try {
+                return Buzz.compileMythos(clone(model), act.bale, state);
+            } catch (e) {
+                console.error(e);
+                return Buzz.errorMythos(clone(model), { src: e, val: 1 }, state);
+            }
+
+        case Act.ERROR_MYTHOS:
+            return Buzz.errorMythos(clone(model), act.bale, state);
+
         default:
             return model;
     }

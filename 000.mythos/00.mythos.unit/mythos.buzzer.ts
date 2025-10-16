@@ -9,3 +9,5 @@ export { advanceMythos  } from "./buz/advanceMythos.buzz";
 export { incrementMythos  } from "./buz/incrementMythos.buzz";
 export { dataMythos  } from "./buz/dataMythos.buzz";
 export { statusMythos  } from "./buz/mythos.buzz";
+export { compileMythos  } from "./buz/compileMythos.buzz";
+export { errorMythos } from "./buz/errorMythos.buzz";
