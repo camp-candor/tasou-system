@@ -12,7 +12,7 @@ var bit, val, idx, dex, lst, dat, src;
 export const initMythos = async (cpy: MythosModel, bal: MythosBit, ste: State) => {
 
 
-  bal.slv({ intBit: { idx: "init-mythos" } });
+  if ( bal != null && bal.slv != null ) bal.slv({ intBit: { idx: "init-mythos" } });
 
   return cpy;
 };

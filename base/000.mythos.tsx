@@ -47,6 +47,12 @@ export const commitGithub = async (dat) => {
   return bit
 }
 
+export const compileMythos = async (dat) => {
+  var bit = await mythos(ActMth.COMPILE_MYTHOS, {dat});
+  dex += 1;
+  return bit
+}
+
 export const createGears = async (dat) => {
   var bit = await mythos(ActGrs.CREATE_GEARS, { dat });
   dex += 1;
