@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "character_id": "uuid-for-moon-druid-build",
+    "user_id": "uuid-for-speaker",
+    "schemaVersion": "6.3",
+    "active_sources": [
+      "SRD",
+      "2024 PHB Playtest"
+    ],
+    "createdAt": "2023-10-27T10:00:00Z",
+    "updatedAt": "2023-10-27T12:30:00Z"
+  },
+  "identity": {
+    "name": "Unnamed Moon Druid",
+    "alignment": "Not Specified",
+    "background": "Custom (Farmer)",
+    "species": "Human"
+  },
+  "description": {
+    "age": null,
+    "height": null,
+    "weight": null,
+    "eyes": null,
+    "skin": null,
+    "hair": null
+  },
+  "personality": {
+    "traits": null,
+    "ideals": null,
+    "bonds": null,
+    "flaws": null
+  },
+  "definition": {
+    "abilityScoreGeneration": {
+      "method": "PointBuy",
+      "scores": {
+        "Strength": 8,
+        "Dexterity": 14,
+        "Constitution": 15,
+        "Intelligence": 8,
+        "Wisdom": 15,
+        "Charisma": 8
+      }
+    },
+    "levelProgression": {
+      "1": {
+        "class": "Druid",
+        "granted_features": ["Druidic", "Spellcasting", "Primal Order"],
+        "choices": [
+          { "type": "feature_choice", "feature": "Primal Order", "value": "Magician", "sub_choice": { "type": "cantrip", "value": "Thorn Whip" } },
+          { "type": "feat", "source": "Species: Human", "value": "Tough" },
+          { "type": "cantrip_selection", "values": ["Guidance", "Shillelagh", "Poison Spray"] },
+          { "type": "spell_selection", "values": ["Healing Word", "Goodberry", "Entangle", "Longstrider"] }
+        ]
+      },
+      "2": { 
+        "class": "Druid",
+        "granted_features": ["Wild Shape", "Wild Companion", "Druid Circle"]
+      },
+      "3": {
+        "class": "Druid",
+        "granted_features": ["Circle Forms"],
+        "choices": [
+          { "type": "subclass", "value": "Circle of the Moon" },
+          { "type": "spell_selection", "spell_level": 2, "values": ["Moonbeam", "Spike Growth", "Summon Beast"] }
+        ]
+      },
+      "4": {
+        "class": "Druid",
+        "granted_features": ["Feat"],
+        "choices": [
+          { "type": "feat", "value": "Charger", "asi_increase": { "score": "Dexterity", "value": 1 } }
+        ]
+      },
+      "5": {
+        "class": "Druid",
+        "granted_features": ["Wild Resurgence"],
+        "choices": [
+          { "type": "spell_selection", "spell_level": 3, "values": ["Conjure Animals", "Aura of Vitality", "Dispel Magic", "Plant Growth", "Sleet Storm", "Revivify"] }
+        ]
+      },
+      "6": { 
+        "class": "Druid",
+        "granted_features": [],
+        "choices": [],
+        "notes": "Gains 1 3rd-level spell slot. The number of preparable spells increases."
+      },
+      "7": {
+        "class": "Druid",
+        "granted_features": ["Elemental Fury"],
+        "choices": [
+          { "type": "feature_choice", "feature": "Elemental Fury", "value": "Primal Strike" },
+          { "type": "spell_selection", "spell_level": 4, "values": ["Wall of Fire", "Freedom of Movement", "Polymorph", "Conjure Woodland Beings"] }
+        ]
+      },
+      "8": {
+        "class": "Druid",
+        "granted_features": ["Feat"],
+        "choices": [
+          { "type": "feat", "value": "Grappler" }
+        ]
+      },
+      "9": {
+        "class": "Druid",
+        "choices": [
+          { "type": "spell_selection", "spell_level": 5, "values": [] }
+        ]
+      },
+      "10": { 
+        "class": "Druid",
+        "granted_features": ["Moonlight Step"]
+      },
+      "11": {
+        "class": "Druid",
+        "choices": [
+          { "type": "spell_selection", "spell_level": 6, "values": ["Heal", "Heroes' Feast", "Transport via Plants", "Conjure Minor Elementals"] }
+        ]
+      },
+      "12": {
+        "class": "Druid",
+        "granted_features": ["Feat"],
+        "choices": [
+          { "type": "feat", "value": "War Caster" }
+        ]
+      },
+      "13": {
+        "class": "Druid",
+        "choices": [
+          { "type": "spell_selection", "spell_level": 7, "values": ["Draconic Transformation"] }
+        ]
+      },
+      "14": { 
+        "class": "Druid",
+        "granted_features": ["Lunar Form"]
+      },
+      "15": {
+        "class": "Druid",
+        "granted_features": ["Improved Elemental Fury"],
+        "choices": [
+          { "type": "spell_selection", "spell_level": 8, "values": ["Earthquake", "Animal Shapes"] }
+        ]
+      },
+      "16": {
+        "class": "Druid",
+        "granted_features": ["Feat"],
+        "choices": [
+          { "type": "asi", "increases": [{ "score": "Wisdom", "value": 2 }] }
+        ]
+      },
+      "17": {
+        "class": "Druid",
+        "granted_features": [],
+        "choices": [
+          { "type": "spell_selection", "spell_level": 9, "values": ["Foresight", "Shapechange"] }
+        ],
+        "notes": "Gains 1 9th-level spell slot. Proficiency Bonus increases to +6."
+      },
+      "18": {
+        "class": "Druid",
+        "granted_features": ["Timeless Body", "Beast Spells"]
+      },
+      "19": {
+        "class": "Druid",
+        "granted_features": ["Feat"],
+        "choices": [
+          { "type": "feat", "value": "Resilient (Constitution)" }
+        ]
+      },
+      "20": {
+        "class": "Druid",
+        "granted_features": ["Archdruid"]
+      }
+    },
+    "wildShapeForms": {
+      "known": [
+        "Giant Venomous Snake", "Giant Wolf Spider", "Giant Centipede", "Giant Frog",
+        "Rhinoceros", "Giant Bat", "Giant Scorpion", "Elephant", "Triceratops", "Giant Crocodile"
+      ]
+    }
+  },
+  "proficiencies": {
+    "skills": [],
+    "saving_throws": ["Intelligence", "Wisdom"],
+    "armor": ["Light armor", "Medium armor", "Shields"],
+    "weapons": ["Clubs", "Daggers", "Darts", "Javelins", "Maces", "Quarterstaffs", "Scimitars", "Sickles", "Slings", "Spears"],
+    "tools": []
+  },
+  "spellcasting": {
+    "sources": [
+      {
+        "source": "Class: Druid",
+        "ability": "Wisdom",
+        "always_prepared": ["Cure Wounds", "Starry Wisp"]
+      }
+    ]
+  },
+  "inventory": {
+    "currency": {},
+    "items": {},
+    "loadout": {
+      "worn": ["Studded Leather", "Shield"],
+      "held": { "main_hand": "Staff", "off_hand": null },
+      "attuned_items": []
+    }
+  },
+  "notes": "Moon Druid build optimized for sustained damage and survivability based on the 2024 rules update. Prioritizes the Tough, Charger, Grappler, and War Caster feats to enhance Wild Shape combat effectiveness. Relies heavily on summoning spells and high-CR beast forms.",
+  "currentState": {}
+}
