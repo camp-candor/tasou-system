@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "character_id": "uuid-for-this-character",
+    "user_id": "uuid-for-video-creator",
+    "schemaVersion": "5.2",
+    "active_sources": [
+      "SRD",
+      "Playtest Material 2024"
+    ]
+  },
+  "identity": {
+    "name": "Unnamed Beast Master",
+    "alignment": "Not Specified",
+    "background": "Wayfarer",
+    "species": "Halfling"
+  },
+  "description": { /* ... */},
+  "personality": { /* ... */},
+  "definition": {
+    "abilityScoreGeneration": {
+      "method": "PointBuy",
+      "scores": {
+        "Strength": 13,
+        "Dexterity": 15,
+        "Constitution": 12,
+        "Intelligence": 8,
+        "Wisdom": 15,
+        "Charisma": 8
+      }
+    },
+    "levelProgression": {
+      "1": {
+        "class": "Rogue",
+        "features": [
+          "Expertise",
+          "Sneak Attack (1d6)",
+          "Thieves' Cant"
+        ],
+        "choices": [
+          {
+            "type": "skill_proficiency",
+            "values": [
+              "Stealth",
+              "Perception",
+              "Acrobatics",
+              "Sleight of Hand"
+            ]
+          },
+          {
+            "type": "expertise",
+            "values": [
+              "Perception",
+              "Stealth"
+            ]
+          },
+          {
+            "type": "feat",
+            "source": "Background: Wayfarer",
+            "value": "Lucky"
+          }
+        ]
+      },
+      "2": {
+        "class": "Ranger",
+        "features": [
+          "Favored Enemy",
+          "Deft Explorer"
+        ]
+      },
+      "3": {
+        "class": "Ranger",
+        "features": [
+          "Primeval Awareness"
+        ],
+        "choices": [
+          {
+            "type": "fighting_style",
+            "value": "Archery"
+          },
+          {
+            "type": "spell_known",
+            "values": [
+              "Cure Wounds",
+              "Goodberry"
+            ]
+          }
+        ]
+      },
+      "4": {
+        "class": "Ranger",
+        "features": [
+          "Primal Companion"
+        ],
+        "choices": [
+          {
+            "type": "subclass",
+            "value": "Beast Master"
+          },
+          {
+            "type": "beast_companion_form",
+            "value": "Beast of the Land"
+          }
+        ]
+      },
+      "5": {
+        "class": "Ranger",
+        "features": [
+          "Extra Attack"
+        ],
+        "choices": [
+          {
+            "type": "feat",
+            "value": "Crossbow Expert"
+          },
+          {
+            "type": "spell_known",
+            "value": "Jump"
+          }
+        ]
+      },
+      "6": {
+        "class": "Ranger",
+        "features": [
+          "Roving"
+        ],
+        "choices": [
+          {
+            "type": "spell_known",
+            "value": "Spike Growth"
+          }
+        ]
+      },
+      "7": {
+        "class": "Ranger",
+        "features": [
+          "Roving"
+        ]
+      },
+      "8": {
+        "class": "Ranger",
+        "features": [
+          "Exceptional Training"
+        ],
+        "choices": [
+          {
+            "type": "spell_known",
+            "value": "Conjure Animals"
+          } // The missing choice
+        ]
+      },
+      "9": {
+        "class": "Ranger",
+        "features": [
+          "Land's Stride"
+        ],
+        "choices": [
+          {
+            "type": "feat",
+            "value": "Great Weapon Master"
+          },
+          {
+            "type": "spell_known",
+            "value": "Summon Beast"
+          }
+        ]
+      },
+      "10": {
+        "class": "Ranger",
+        "features": [
+          "Tireless"
+        ],
+        "choices": [
+          {
+            "type": "spell_known",
+            "value": "Summon Fay"
+          }
+        ]
+      },
+      "11": {
+        "class": "Ranger",
+        "features": [
+          "Vanish"
+        ]
+      },
+      "12": {
+        "class": "Ranger",
+        "features": [
+          "Bestial Fury"
+        ]
+      },
+      "13": {
+        "class": "Ranger",
+        "choices": [
+          {
+            "type": "asi",
+            "increases": [
+              {
+                "score": "Wisdom",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "type": "spell_known",
+            "value": "Freedom of Movement"
+          }
+        ]
+      },
+      "14": {
+        "class": "Ranger",
+        "features": [
+          "Relentless Hunter"
+        ]
+      },
+      "15": {
+        "class": "Rogue",
+        "features": [
+          "Cunning Action"
+        ]
+      },
+      "16": {
+        "class": "Rogue",
+        "features": [
+          "Steady Aim",
+          "Sneak Attack (2d6)"
+        ],
+        "choices": [
+          {
+            "type": "subclass",
+            "value": "Arcane Trickster"
+          },
+          {
+            "type": "spellcasting_arcane_trickster",
+            "cantrips": [
+              "Mage Hand",
+              "Minor Illusion",
+              "Prestidigitation"
+            ],
+            "spells": [
+              {
+                "name": "Find Familiar",
+                "source": "Free Choice (Any School)"
+              },
+              {
+                "name": "Silent Image",
+                "source": "Restricted (Enchantment/Illusion)"
+              },
+              {
+                "name": "Charm Person",
+                "source": "Restricted (Enchantment/Illusion)"
+              }
+            ]
+          }
+        ]
+      },
+      "17": {
+        "class": "Rogue",
+        "choices": [
+          {
+            "type": "asi",
+            "increases": [
+              {
+                "score": "Wisdom",
+                "value": 2
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "proficiencies": { /* ... as before ... */},
+  "spellcastingSummary": { /* ... as before ... */},
+  "inventory": { /* ... as before ... */},
+  "currentState": { /* ... as before ... */}
+}

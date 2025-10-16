@@ -1,0 +1,9 @@
+Inside the 00.mythos.unit directory 
+
+create a new methods for compileMythos 
+follow the methodology for the contents of found within 00.mythos.unit 
+update .action, .buzzer, .reducer files with new method ids
+
+set up the compileMythos function to 
+read through the entire contents of the directory of 000.mythos 
+save the contents of each file in to a single text file which is saved to './data/000.mythos.txt 

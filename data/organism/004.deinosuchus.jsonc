@@ -1,0 +1,74 @@
+{
+    "deinosuchus": {
+        "name": "Deinosuchus",
+        "size": "Huge",
+        "type": "Beast (Dinosaur)",
+        "alignment": "Unaligned",
+        "ac": 16,
+        "hp": {
+            "dice": "15d12 + 75",
+            "average": 172
+        },
+        "speed": {
+            "walk": 30,
+            "swim": 50
+        },
+        "ability_scores": {
+            "strength": 25,
+            "dexterity": 10,
+            "constitution": 21,
+            "intelligence": 3,
+            "wisdom": 14,
+            "charisma": 9
+        },
+        "skills": {
+            "perception": 5,
+            "stealth": 3
+        },
+        "senses": {
+            "darkvision": 60,
+            "passive_perception": 15
+        },
+        "languages": [
+            "None"
+        ],
+        "cr": 8,
+        "pb": 3,
+        "traits": [
+            {
+                "name": "Hold Breath",
+                "description": "The deinosuchus can hold its breath for 30 minutes."
+            },
+            {
+                "name": "Amphibious",
+                "description": "The deinosuchus can breathe both air and water."
+            },
+            {
+                "name": "Lurking Predator",
+                "description": "The deinosuchus has advantage on Dexterity (Stealth) checks made while underwater."
+            }
+        ],
+        "actions": [
+            {
+                "name": "Multiattack",
+                "description": "The deinosuchus makes one Bite attack and one Tail attack."
+            },
+            {
+                "name": "Bite",
+                "type": "melee_attack",
+                "reach": 10,
+                "bonus": 10,
+                "damage": "29 (4d10 + 7) Piercing damage.",
+                "effect": "If the target is a Large or smaller creature, it is grappled (escape DC 18). Until this grapple ends, the target is restrained, and the deinosuchus can't bite another target."
+            },
+            {
+                "name": "Tail",
+                "type": "melee_attack",
+                "reach": 15,
+                "bonus": 10,
+                "damage": "20 (3d8 + 7) Bludgeoning damage.",
+                "effect": "If the target is a Large or smaller creature, it must succeed on a DC 18 Strength saving throw or be knocked prone."
+            }
+        ]
+    }
+}

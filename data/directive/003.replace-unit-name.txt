@@ -1,0 +1,6 @@
+you are looking for a root word named mythos
+focus upon the directory named 000.mythos
+access every file recursively in this focused upon directory
+take notice of all the instances of the root word in those files 
+replace all the instances of the root word with a different word in the same textual form (case-sensitive) 
+that new word is sower  
