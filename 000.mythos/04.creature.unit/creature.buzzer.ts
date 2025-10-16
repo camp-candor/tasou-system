@@ -1,0 +1,9 @@
+export { initCreature  } from "./buz/creature.buzz";
+export { updateCreature  } from "./buz/creature.buzz";
+export { readCreature  } from "./buz/creature.buzz";
+export { writeCreature  } from "./buz/creature.buzz";
+export { deleteCreature  } from "./buz/creature.buzz";
+export { removeCreature  } from "./buz/creature.buzz";
+export { createCreature  } from "./buz/creature.buzz";
+export { listCreature  } from "./buz/creature.buzz";
+export { openCreature  } from "./buz/creature.buzz";
