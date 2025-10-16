@@ -1,0 +1,4 @@
+update base/000.mythos.tsx to include the compileMythos action 
+include a route for src/app/api/mythos/compile
+in this route file include code using the correct pattern 
+to set up a GET function to access the compileMythos method in the base
