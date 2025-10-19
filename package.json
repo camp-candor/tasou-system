@@ -9,7 +9,7 @@
     "lint": "next lint",
     "lint:fix": "next lint --fix",
     "format": "prettier --write .",
-    "test": "TS_NODE_COMPILER_OPTIONS='{\"module\": \"commonjs\"}' ava"
+    "test": "ava"
   },
   "ava": {
     "extensions": [

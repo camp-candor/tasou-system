@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "character_id": "uuid-for-smart-hulk-build-001",
+    "user_id": "uuid-for-the-player",
+    "schemaVersion": "5.5-final",
+    "active_sources": [
+      "SRD",
+      "Eberron: Rising from the Last War"
+    ],
+    "createdAt": "2023-10-27T14:00:00Z",
+    "updatedAt": "2023-10-27T14:00:00Z"
+  },
+  "identity": {
+    "name": "Smart Hulk",
+    "alignment": "Chaotic Good",
+    "background": "Farmer",
+    "species": "Half-Elf"
+  },
+  "description": {
+    "age": 35,
+    "height": "6' 2\"",
+    "weight": "240 lbs",
+    "eyes": "Green",
+    "skin": "Fair",
+    "hair": "Dark Brown"
+  },
+  "personality": {
+    "traits": "Combines a fierce, primal fury in battle with surprising moments of tactical insight and clarity. I am protective of those I consider my tribe.",
+    "ideals": "Strength. True strength is not just the power to destroy, but the discipline to protect. (Good)",
+    "bonds": "My party is my new tribe. I would face any army, god, or devil for them.",
+    "flaws": "I have a deep-seated fear of my own rage. I once lost control and it cost someone dearly. I will do anything to ensure it never happens again."
+  },
+  "definition": {
+    "abilityScoreGeneration": {
+      "method": "PointBuy",
+      "scores": {
+        "Strength": 15,
+        "Dexterity": 15,
+        "Constitution": 15,
+        "Intelligence": 8,
+        "Wisdom": 8,
+        "Charisma": 8
+      }
+    },
+    "levelProgression": {
+      "1": { "class": "Barbarian", "features_gained": ["Rage", "Unarmored Defense"], "choices": [{ "type": "skill_proficiency", "values": ["Athletics", "Survival"] }] },
+      "2": { "class": "Barbarian", "features_gained": ["Reckless Attack", "Danger Sense"] },
+      "3": { 
+        "class": "Barbarian", 
+        "features_gained": ["Primal Knowledge"],
+        "choices": [
+          { "type": "subclass", "value": "Path of the Berserker" },
+          { "type": "subclass_feature", "value": "Frenzy" },
+          { "type": "primal_knowledge_skill", "value": "Perception" }
+        ] 
+      },
+      "4": { "class": "Barbarian", "features_gained": ["Ability Score Improvement"], "choices": [{ "type": "feat", "value": "Sentinel" }] },
+      "5": { "class": "Barbarian", "features_gained": ["Extra Attack", "Fast Movement"] },
+      "6": { 
+        "class": "Fighter", 
+        "features_gained": ["Second Wind", "Fighting Style"], 
+        "choices": [{ "type": "fighting_style", "value": "Great Weapon Fighting" }]
+      },
+      "7": { "class": "Barbarian", "features_gained": ["Mindless Rage"] },
+      "8": { "class": "Barbarian", "features_gained": ["Feral Instinct", "Instinctive Pounce"] },
+      "9": { "class": "Barbarian", "features_gained": ["Ability Score Improvement"], "choices": [{ "type": "asi", "increases": [{ "score": "Strength", "value": 2 }] }] },
+      "10": { "class": "Barbarian", "features_gained": ["Brutal Strike"] },
+      "11": { "class": "Barbarian", "features_gained": ["Retaliation"] },
+      "12": { "class": "Fighter", "features_gained": ["Action Surge (one use)", "Tactical Mind"] },
+      "13": { "class": "Fighter", "features_gained": ["Combat Superiority"], "choices": [{ "type": "subclass", "value": "Battle Master" }, { "type": "maneuvers", "values": ["Menacing Attack", "Goading Attack", "Riposte"] }] },
+      "14": { "class": "Barbarian", "features_gained": ["Relentless Rage"] },
+      "15": { "class": "Barbarian", "features_gained": ["Ability Score Improvement"], "choices": [{ "type": "asi", "increases": [{ "score": "Constitution", "value": 2 }] }] },
+      "16": { "class": "Fighter", "features_gained": ["Ability Score Improvement"], "choices": [{ "type": "feat", "value": "Revenant Blade", "increase": { "score": "Strength", "value": 1 } }] },
+      "17": { "class": "Rogue", "features_gained": ["Expertise", "Sneak Attack (1d6)", "Thieves' Cant"], "choices": [{ "type": "expertise", "values": ["Athletics", "Stealth"] }] }
+    }
+  },
+  "proficiencies": {
+    "skills": [
+      { "name": "Athletics", "source": "Class: Barbarian", "modifier": "expertise" },
+      { "name": "Survival", "source": "Class: Barbarian", "modifier": "proficient" },
+      { "name": "Perception", "source": "Feature: Primal Knowledge", "modifier": "proficient" },
+      { "name": "Animal Handling", "source": "Background: Farmer", "modifier": "proficient" },
+      { "name": "Stealth", "source": "Class: Rogue", "modifier": "expertise" }
+    ],
+    "saving_throws": ["Strength", "Constitution"],
+    "armor": ["Light Armor", "Medium Armor", "Shields"],
+    "weapons": ["Simple Weapons", "Martial Weapons"],
+    "tools": ["Herbalism Kit"]
+  },
+  "spellcasting": {
+    "has_spellcasting": false,
+    "sources": []
+  },
+  "resources": {
+    "per_rest": [
+      { "name": "Rage", "max": 6, "recharge": "long_rest" },
+      { "name": "Second Wind", "max": 1, "recharge": "short_rest" },
+      { "name": "Action Surge", "max": 1, "recharge": "short_rest" },
+      { "name": "Superiority Dice", "max": 4, "die_value": 8, "recharge": "short_rest" }
+    ],
+    "pools": []
+  },
+  "inventory": {
+    "currency": { "cp": 0, "sp": 0, "gp": 0, "pp": 0 },
+    "items": {
+      "item-uuid-01": { "item_id": "double_bladed_scimitar", "quantity": 1 },
+      "item-uuid-02": { "item_id": "scale_mail", "quantity": 1 }
+    },
+    "loadout": {
+      "worn": ["item-uuid-02"],
+      "held": { "main_hand": "item-uuid-01", "off_hand": "item-uuid-01" },
+      "attuned_items": []
+    }
+  },
+  "currentState": {
+    "xp": 175000,
+    "currentHp": 0,
+    "temporaryHp": 0,
+    "usedHitDice": { "d12": 0, "d10": 0 },
+    "deathSaves": { "successes": 0, "failures": 0 },
+    "conditions": [],
+    "exhaustionLevel": 0,
+    "inspiration": false,
+    "activeEffects": [],
+    "usedResources": {
+      "Rage": 0,
+      "Second Wind": 0,
+      "Action Surge": 0,
+      "Superiority Dice": 0
+    },
+    "usedSpellSlots": {}
+  }
+}
